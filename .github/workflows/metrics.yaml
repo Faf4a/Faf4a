@@ -1,0 +1,31 @@
+name: Metrics
+on:
+  schedule: [{ cron: "0 16 */3 * *" }]
+  push: { branches: [main] }
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: create metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Gist
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+
+          # Configs
+          filename: profile_metrics.svg
+          token: ${{ secrets.GIST }}
+          config_padding: 0, 60%
+          config_timezone: Asia/Seoul
+          template: classic
+          base: header
+
+          # Notable
+          plugin_notable: yes
+          plugin_notable_from: organization
+          plugin_notable_indepth: yes
+          plugin_notable_filter: stars:>5
+          plugin_notable_skipped: Cata-Rogall-Modpack
