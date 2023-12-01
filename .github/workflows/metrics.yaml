@@ -1,31 +1,36 @@
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
-  schedule: [{ cron: "0 16 */3 * *" }]
-  push: { branches: [main] }
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-
+  push: {branches: ["master", "main"]}
 jobs:
-  metrics:
+  github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: create metrics
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
-          # Gist
-          output_action: gist
-          committer_gist: ${{ secrets.GIST }}
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          #  - public_repo
+          #  - read:project
+          # The following additional scopes may be required:
+          #  - read:org      (for organization related metrics)
+          #  - read:user     (for user related data)
+          #  - read:packages (for some packages related data)
+          #  - repo          (optional, if you want to include private repositories)
+          token: ${{ secrets.METRICS_TOKEN }}
 
-          # Configs
-          filename: profile_metrics.svg
-          token: ${{ secrets.GIST }}
-          config_padding: 0, 60%
-          config_timezone: Asia/Seoul
-          template: classic
-          base: header
-
-          # Notable
-          plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_indepth: yes
-          plugin_notable_filter: stars:>5
-          plugin_notable_skipped: Cata-Rogall-Modpack
+          # Options
+          user: faf4a
+          template: terminal
+          base: header, activity, community, repositories, metadata
+          config_octicon: yes
+          config_timezone: Europe/Berlin
+          plugin_projects: yes
+          plugin_projects_limit: 4
