@@ -1,1 +1,3 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/428188716641812481)](https://discord.com/users/428188716641812481)
+nothing to see here..
+
+![mt](https://raw.githubusercontent.com/Faf4a/Faf4a/main/github-metrics.svg)
