@@ -65,7 +65,7 @@ jobs:
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 2%
           plugin_habits_trim: yes
-          plugin_lines: yes
+          plugin_lines: no
           plugin_lines_delay: 5000
           plugin_lines_history_limit: 2
           plugin_lines_repositories_limit: 6
