@@ -28,16 +28,25 @@
 
 ###
 
-<!--
 <div align="center">
-<a href="https://open.spotify.com/user/31u76bjeqd2fyipivwnbx7bsiy5y">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31u76bjeqd2fyipivwnbx7bsiy5y&count=5&unique=true&width=815" alt="Spotify recently played"  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faf4a/faf4a/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faf4a/faf4a/output/github-contribution-grid-snake.svg">
+    <img width=850 alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/faf4a/faf4a/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+###
+
+<div align="center">
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31u76bjeqd2fyipivwnbx7bsiy5y">
+  <img width=815 src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31u76bjeqd2fyipivwnbx7bsiy5y&hide_title=1&limit=3" alt="Data Card for Spotify">
 </a>
 </div>
 
 ###
-:spotify-->
 
+<div align="center">
 <!--START_SECTION:waka-->
 
 ```txt
@@ -45,11 +54,4 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faf4a/faf4a/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faf4a/faf4a/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/faf4a/faf4a/output/github-contribution-grid-snake.svg">
-</picture>
+</div>
