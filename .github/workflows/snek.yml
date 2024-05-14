@@ -1,9 +1,9 @@
 name: ✨ update SVG
 
 on:
-  # run automatically every 15 minutes
+  # run automatically every hour
   schedule:
-    - cron: "*/5 * * * *" 
+    - cron: "0 */1 * * *"
   
   # allows to manually run the job at any time
   workflow_dispatch:
