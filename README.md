@@ -39,14 +39,6 @@
 ###
 
 <div align="center">
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31u76bjeqd2fyipivwnbx7bsiy5y">
-  <img width=815 src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31u76bjeqd2fyipivwnbx7bsiy5y&hide_title=1&limit=3" alt="Data Card for Spotify">
-</a>
-</div>
-
-###
-
-<div align="center">
 <!--START_SECTION:waka-->
 
 ```txt
@@ -57,3 +49,13 @@ TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 </div>
+
+###
+
+<div align="center">
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31u76bjeqd2fyipivwnbx7bsiy5y">
+  <img width=815 src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31u76bjeqd2fyipivwnbx7bsiy5y&hide_title=1&limit=3" alt="Data Card for Spotify">
+</a>
+</div>
+
+###
