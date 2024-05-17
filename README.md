@@ -38,7 +38,7 @@
 
 ###
 
-<div align="center">
+<div>
 <!--START_SECTION:waka-->
 
 ```txt
