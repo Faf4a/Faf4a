@@ -16,3 +16,9 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          TIME_RANGE: all_time
+          CODE_LANG: txt
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: true
+          STOP_AT_OTHER: false
+          COMMIT_MESSAGE: "[workflow] update stats"
