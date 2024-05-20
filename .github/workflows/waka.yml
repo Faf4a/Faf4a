@@ -16,7 +16,7 @@ jobs:
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           TIME_RANGE: all_time
           CODE_LANG: txt
-          SHOW_TOTAL: true
           SHOW_MASKED_TIME: true
+          LANG_COUNT: 10
           STOP_AT_OTHER: false
           COMMIT_MESSAGE: "[workflow] update stats"
