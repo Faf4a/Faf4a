@@ -18,7 +18,7 @@ Astro        34 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-`[05/29 21:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/Faf4a](https://github.com/Faf4a/Faf4a)  
+`[05/29 21:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Faf4a/Faf4a](https://github.com/Faf4a/Faf4a)  
 `[05/29 15:52]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#589`](https://github.com//aoijs/aoi.js/issues/589 'Silent Messages') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/29 15:51]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#601`](https://github.com//aoijs/aoi.js/issues/601 'Bug: node:15512 [DEP0137]') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/29 15:51]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#601`](https://github.com//aoijs/aoi.js/issues/601 'Bug: node:15512 [DEP0137]') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
@@ -211,9 +211,6 @@ Astro        34 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[05/04 10:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `0` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 `[05/04 10:01]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dearrow-options-pr` from [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 `[05/04 09:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1728` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
-`[05/04 09:57]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`dearrow-options-pr`](https://github.com/Faf4a/Vencord/tree/dearrow-options-pr) in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
-`[05/04 08:38]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Vendicated/Vencord](https://github.com/Vendicated/Vencord) to [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
-`[05/04 06:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/plugins](https://github.com/Faf4a/plugins)  
 
 </details>
 <!--END_SECTION:activity-->
