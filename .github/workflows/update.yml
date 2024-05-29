@@ -14,4 +14,4 @@ jobs:
 
       - uses: cheesits456/github-activity-readme@16bd144b812ce901e0693fee5c36c02e75e6b4a7
         env:
-          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
