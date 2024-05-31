@@ -18,6 +18,7 @@ Astro        34 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[05/31 18:22]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#18`](https://github.com//aoijs/aoi.music/pull/18 'fix spotify searching for wrong query') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[05/31 18:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/aoi.music](https://github.com/Faf4a/aoi.music)  
 `[05/30 18:46]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dev` from [Faf4a/aoi.mongo](https://github.com/Faf4a/aoi.mongo)  
 `[05/30 18:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/aoi.mongo](https://github.com/Faf4a/aoi.mongo)  
@@ -27,10 +28,10 @@ Astro        34 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[05/29 22:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/29 22:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Faf4a/Faf4a](https://github.com/Faf4a/Faf4a)  
 `[05/29 15:52]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#589`](https://github.com//aoijs/aoi.js/issues/589 'Silent Messages') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[05/29 15:51]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#601`](https://github.com//aoijs/aoi.js/issues/601 'Bug: node:15512 [DEP0137]') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 <details><summary>Show More</summary>
 
+`[05/29 15:51]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#601`](https://github.com//aoijs/aoi.js/issues/601 'Bug: node:15512 [DEP0137]') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/29 15:51]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#601`](https://github.com//aoijs/aoi.js/issues/601 'Bug: node:15512 [DEP0137]') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/29 15:45]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#604`](https://github.com//aoijs/aoi.js/pull/604 'changes') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/29 15:43]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`msg-flags`](https://github.com/aoijs/aoi.js/tree/msg-flags) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
@@ -208,7 +209,7 @@ Astro        34 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[05/05 02:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `47` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 `[05/05 02:44]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#588`](https://github.com//aoijs/aoi.js/pull/588 'Bump discordjs') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/05 02:43]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#587`](https://github.com//aoijs/aoi.js/issues/587 'Bug: $globalUserLeaderboard broken in v6.8') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[05/05 02:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[05/05 02:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 </details>
 <!--END_SECTION:activity-->
