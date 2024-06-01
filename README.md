@@ -18,6 +18,7 @@ Astro        34 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[06/01 15:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
 `[06/01 15:01]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`clr-func`](https://github.com/aoijs/aoi.js/tree/clr-func) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/31 18:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 `[05/31 18:22]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#18`](https://github.com//aoijs/aoi.music/pull/18 'fix spotify searching for wrong query') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
@@ -27,10 +28,10 @@ Astro        34 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[05/30 18:46]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//Faf4a/aoi.mongo/pull/1 'aoijs renames') in [Faf4a/aoi.mongo](https://github.com/Faf4a/aoi.mongo)  
 `[05/30 18:46]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//Faf4a/aoi.mongo/pull/1 'aoijs renames') in [Faf4a/aoi.mongo](https://github.com/Faf4a/aoi.mongo)  
 `[05/30 16:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dsdanielpark/Gemini-API](https://github.com/dsdanielpark/Gemini-API)  
-`[05/29 22:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 <details><summary>Show More</summary>
 
+`[05/29 22:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/29 22:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Faf4a/Faf4a](https://github.com/Faf4a/Faf4a)  
 `[05/29 15:52]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#589`](https://github.com//aoijs/aoi.js/issues/589 'Silent Messages') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/29 15:51]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#601`](https://github.com//aoijs/aoi.js/issues/601 'Bug: node:15512 [DEP0137]') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
