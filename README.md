@@ -210,7 +210,6 @@ Astro        34 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[05/06 03:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1758` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 `[05/06 03:42]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`dev`](https://github.com/Faf4a/Vencord/tree/dev) in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 `[05/06 03:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
-`[05/06 03:24]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#587`](https://github.com//aoijs/aoi.js/issues/587 'Bug: $globalUserLeaderboard broken in v6.8') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 </details>
 <!--END_SECTION:activity-->
