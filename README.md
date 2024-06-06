@@ -18,6 +18,7 @@ Svelte       44 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[06/06 05:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/snippets](https://github.com/Faf4a/snippets)  
 `[06/06 03:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 `[06/02 14:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Faf4a/plugins](https://github.com/Faf4a/plugins)  
 `[06/02 02:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
@@ -27,10 +28,10 @@ Svelte       44 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[06/01 15:42]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#606`](https://github.com//aoijs/aoi.js/issues/606 'Bug: Data Assigned to Parameters Does Not Work Correctly') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[06/01 15:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[06/01 15:38]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#608`](https://github.com//aoijs/aoi.js/pull/608 'fix: $clear') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[06/01 15:37]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#605`](https://github.com//aoijs/aoi.js/issues/605 'Bug: $setTimeout bug') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 <details><summary>Show More</summary>
 
+`[06/01 15:37]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#605`](https://github.com//aoijs/aoi.js/issues/605 'Bug: $setTimeout bug') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[06/01 15:37]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#605`](https://github.com//aoijs/aoi.js/issues/605 'Bug: $setTimeout bug') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[06/01 15:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
 `[06/01 15:01]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`clr-func`](https://github.com/aoijs/aoi.js/tree/clr-func) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
@@ -209,7 +210,6 @@ Svelte       44 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[05/06 09:48]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`constants-rewrite`](https://github.com/aoijs/aoi.js/tree/constants-rewrite) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/06 05:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/06 03:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1758` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
-`[05/06 03:42]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`dev`](https://github.com/Faf4a/Vencord/tree/dev) in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 
 </details>
 <!--END_SECTION:activity-->
