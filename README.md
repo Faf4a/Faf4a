@@ -18,6 +18,7 @@ Svelte       44 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[06/06 19:20]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#612`](https://github.com//aoijs/aoi.js/issues/612 'Bug: $createArray creates an index when the input is empty (the version is 6.8.0)') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[06/06 07:48]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#608`](https://github.com//aoijs/aoi.js/pull/608 'fix: $clear') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[06/06 07:48]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#603`](https://github.com//aoijs/aoi.js/issues/603 'createArray with JSON support') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[06/06 07:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [SaiaAmako5/aoi.js](https://github.com/SaiaAmako5/aoi.js)  
@@ -27,10 +28,10 @@ Svelte       44 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[06/06 03:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 `[06/02 14:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Faf4a/plugins](https://github.com/Faf4a/plugins)  
 `[06/02 02:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
-`[06/01 19:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB)  
 
 <details><summary>Show More</summary>
 
+`[06/01 19:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB)  
 `[06/01 15:42]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#602`](https://github.com//aoijs/aoi.js/issues/602 'Bug: $updateCommands') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[06/01 15:42]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#606`](https://github.com//aoijs/aoi.js/issues/606 'Bug: Data Assigned to Parameters Does Not Work Correctly') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[06/01 15:42]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#606`](https://github.com//aoijs/aoi.js/issues/606 'Bug: Data Assigned to Parameters Does Not Work Correctly') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
@@ -206,8 +207,6 @@ Svelte       44 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[05/06 11:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#167`](https://github.com//aoijs/website/issues/167 'fix invalid example') in [aoijs/website](https://github.com/aoijs/website)  
 `[05/06 11:11]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#167`](https://github.com//aoijs/website/pull/167 'fix invalid example') in [aoijs/website](https://github.com/aoijs/website)  
 `[05/06 11:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `808` commits in [aoijs/website](https://github.com/aoijs/website)  
-`[05/06 11:11]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`Faf4a-patch-2`](https://github.com/aoijs/website/tree/Faf4a-patch-2) in [aoijs/website](https://github.com/aoijs/website)  
-`[05/06 10:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 </details>
 <!--END_SECTION:activity-->
