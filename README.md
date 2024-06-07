@@ -1,5 +1,5 @@
 ```math
-\ce{$\unicode[goombafont; color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.7; background: url('https://cdn.discordapp.com/avatars/1229576676288237679/4143d2847d06fcc590391125143584f7.png');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.7; background: url('https://github.com/Faf4a/Faf4a/blob/main/4143d2847d06fcc590391125143584f7%5B1%5D.png?raw=true');]{x0000}$}
 ```
 
 ###
