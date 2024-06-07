@@ -1,6 +1,9 @@
 ```math
 \ce{$\unicode[goombafont; color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.7; background: url('https://github.com/Faf4a/Faf4a/blob/main/4143d2847d06fcc590391125143584f7%5B1%5D.png?raw=true');]{x0000}$}
 ```
+```math
+\ce{$\unicode[goombafont; position: fixed; z-index: 1000; pointer-events: none; top: 15px; left: 64px; width: 32px; height: 32px; opacity: 1; background-image: url('https://github.com/Faf4a/Faf4a/blob/main/337699638-0407dd35-400b-41fc-adf5-2f166aabe630.png?raw=true'); background-size: cover;]{x0000}$}
+```
 
 ###
 
