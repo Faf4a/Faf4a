@@ -17,6 +17,9 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[06/08 07:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[06/08 07:57]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#615`](https://github.com//aoijs/aoi.js/pull/615 'refactor: moved v7 to aoijs folder') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[06/08 07:56]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#615`](https://github.com//aoijs/aoi.js/pull/615 'refactor: moved v7 to aoijs folder') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[06/08 06:40]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#612`](https://github.com//aoijs/aoi.js/issues/612 'Bug: $createArray creates an index when the input is empty (the version is 6.8.0)') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[06/08 06:40]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#614`](https://github.com//aoijs/aoi.js/pull/614 'fixed getarray') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[06/08 03:52]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1926`](https://github.com//pizzaboxer/bloxstrap/issues/1926 ' Trying to open roblox in every way, it does not open in any way, bloxstrap stays stuck in the background') in [pizzaboxer/bloxstrap](https://github.com/pizzaboxer/bloxstrap)  
@@ -24,12 +27,12 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[06/08 02:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
 `[06/08 02:14]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#175`](https://github.com//aoijs/website/pull/175 'Update resolveEmojiID.md') in [aoijs/website](https://github.com/aoijs/website)  
 `[06/08 00:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Faf4a/Faf4a](https://github.com/Faf4a/Faf4a)  
-`[06/07 00:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
-`[06/07 00:24]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`horror`](https://github.com/Faf4a/Vencord/tree/horror) in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
-`[06/06 23:33]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1926`](https://github.com//pizzaboxer/bloxstrap/issues/1926 ' Trying to open roblox in every way, it does not open in any way, bloxstrap stays stuck in the background') in [pizzaboxer/bloxstrap](https://github.com/pizzaboxer/bloxstrap)  
 
 <details><summary>Show More</summary>
 
+`[06/07 00:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
+`[06/07 00:24]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`horror`](https://github.com/Faf4a/Vencord/tree/horror) in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
+`[06/06 23:33]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1926`](https://github.com//pizzaboxer/bloxstrap/issues/1926 ' Trying to open roblox in every way, it does not open in any way, bloxstrap stays stuck in the background') in [pizzaboxer/bloxstrap](https://github.com/pizzaboxer/bloxstrap)  
 `[06/06 19:20]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#612`](https://github.com//aoijs/aoi.js/issues/612 'Bug: $createArray creates an index when the input is empty (the version is 6.8.0)') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[06/06 07:48]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#608`](https://github.com//aoijs/aoi.js/pull/608 'fix: $clear') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[06/06 07:48]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#603`](https://github.com//aoijs/aoi.js/issues/603 'createArray with JSON support') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
@@ -199,9 +202,6 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[05/08 19:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/08 18:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/dashboard](https://github.com/Faf4a/dashboard)  
 `[05/07 10:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[05/06 14:00]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#592`](https://github.com//aoijs/aoi.js/pull/592 'fix objects') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[05/06 13:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2633` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[05/06 13:59]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`Faf4a-patch-1`](https://github.com/aoijs/aoi.js/tree/Faf4a-patch-1) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 </details>
 <!--END_SECTION:activity-->
