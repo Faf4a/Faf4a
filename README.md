@@ -228,8 +228,16 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ###
 -->
 
-```math
-\ce{$&#x5C;unicode[monospace; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 1; background: url('https://github.com/Faf4a/Faf4a/assets/87046111/40b70ca3-b0b0-40b6-8dbb-1453884fecc4');]{x0000}$}
-\ce{$&#x5C;unicode[monospace; pointer-events: none; z-index: -9; position: fixed; top: 0; left: 0; height: 100%; width: 100%; opacity: 0.9; background: var(--bgColor-default);]{x0000}$}
-```
-
+<details><summary>github css</summary>
+  - https://github.com/tiramisyuz/ghcss-ext
+<br/>
+  <code id="ghusrcss-code">
+    body {
+      background: url('https://github.com/Faf4a/Faf4a/assets/87046111/40b70ca3-b0b0-40b6-8dbb-1453884fecc4');
+    }
+    p, header, a, span {
+      border-radius: 4px;
+      background-color: var(--data-gray-color-muted);
+    }
+  </code>
+</details>
