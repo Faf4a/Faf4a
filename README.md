@@ -237,6 +237,7 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     }
     p, header, a, span {
       border-radius: 4px;
+      padding: 4px;
       background-color: var(--data-gray-color-muted);
     }
   </code>
