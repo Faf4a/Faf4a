@@ -230,16 +230,12 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 -->
 
 <details><summary>github css</summary>
-  - https://github.com/tiramisyuz/ghcss-ext
+  - use this to see kitty: https://github.com/tiramisyuz/ghcss-ext
 <br/>
   <code id="ghusrcss-code">
     body {
-      background: url('https://github.com/Faf4a/Faf4a/assets/87046111/40b70ca3-b0b0-40b6-8dbb-1453884fecc4');
-    }
-    p, header, a, span {
-      border-radius: 4px;
-      padding: 4px;
-      background-color: var(--data-gray-color-muted);
+      background: url('https://github.com/Faf4a/Faf4a/assets/87046111/8928d114-93c5-4ef7-ada1-fb1c53fcd5e8') no-repeat center center fixed;
+      background-size: cover;
     }
   </code>
 </details>
