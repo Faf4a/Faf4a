@@ -38,6 +38,7 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[06/13 12:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `23` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 `[06/12 15:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover)  
 `[06/11 18:40]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#19`](https://github.com//aoijs/aoi.music/pull/19 'removeTrack, spotify fixes') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[06/11 18:38]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`removetrack-spotify`](https://github.com/Faf4a/aoi.music/tree/removetrack-spotify) in [Faf4a/aoi.music](https://github.com/Faf4a/aoi.music)  
@@ -47,10 +48,10 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[06/11 09:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/aoi.mongo](https://github.com/Faf4a/aoi.mongo)  
 `[06/11 09:29]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`object-nl`](https://github.com/Faf4a/aoi.mongo/tree/object-nl) in [Faf4a/aoi.mongo](https://github.com/Faf4a/aoi.mongo)  
 `[06/10 10:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `187` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
-`[06/10 10:28]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#7`](https://github.com//Faf4a/Vencord/pull/7 '[pull] main from Vendicated:main') in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 
 <details><summary>Show More</summary>
 
+`[06/10 10:28]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#7`](https://github.com//Faf4a/Vencord/pull/7 '[pull] main from Vendicated:main') in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 `[06/10 04:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Faf4a/Faf4a](https://github.com/Faf4a/Faf4a)  
 `[06/09 08:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tiramisyuz/ghcss-ext](https://github.com/tiramisyuz/ghcss-ext)  
 `[06/08 07:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
@@ -229,7 +230,7 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[05/09 01:40]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `Faf4a-patch-1` from [aoijs/website](https://github.com/aoijs/website)  
 `[05/09 01:39]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `Faf4a-patch-2` from [aoijs/website](https://github.com/aoijs/website)  
 `[05/08 20:50]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#635`](https://github.com//pizzaboxer/bloxstrap/issues/635 'Megathread - Roblox crashes, shows an error, or refuses to open') in [pizzaboxer/bloxstrap](https://github.com/pizzaboxer/bloxstrap)  
-`[05/08 20:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[05/08 20:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 </details>
 <!--END_SECTION:activity-->
