@@ -38,19 +38,23 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[06/14 10:27]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#176`](https://github.com//aoijs/website/issues/176 'Update textSplitMap.md') in [aoijs/website](https://github.com/aoijs/website)  
+`[06/14 10:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
+`[06/14 10:27]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#177`](https://github.com//aoijs/website/pull/177 'Rebase of src structure of functions') in [aoijs/website](https://github.com/aoijs/website)  
+`[06/14 10:26]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#177`](https://github.com//aoijs/website/pull/177 'Rebase of src structure of functions') in [aoijs/website](https://github.com/aoijs/website)  
 `[06/13 15:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/dashboard](https://github.com/Faf4a/dashboard)  
 `[06/13 15:00]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#26`](https://github.com//Faf4a/dashboard/pull/26 'Fixed guild cache +  modified /api/user/guilds') in [Faf4a/dashboard](https://github.com/Faf4a/dashboard)  
 `[06/13 12:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `23` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 `[06/12 15:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover)  
 `[06/11 18:40]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#19`](https://github.com//aoijs/aoi.music/pull/19 'removeTrack, spotify fixes') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[06/11 18:38]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`removetrack-spotify`](https://github.com/Faf4a/aoi.music/tree/removetrack-spotify) in [Faf4a/aoi.music](https://github.com/Faf4a/aoi.music)  
+
+<details><summary>Show More</summary>
+
 `[06/11 18:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/aoi.music](https://github.com/Faf4a/aoi.music)  
 `[06/11 11:46]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#18`](https://github.com//aoijs/aoi.music/pull/18 'fix spotify searching for wrong query') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[06/11 11:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/aoi.music](https://github.com/Faf4a/aoi.music)  
 `[06/11 09:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/aoi.mongo](https://github.com/Faf4a/aoi.mongo)  
-
-<details><summary>Show More</summary>
-
 `[06/11 09:29]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`object-nl`](https://github.com/Faf4a/aoi.mongo/tree/object-nl) in [Faf4a/aoi.mongo](https://github.com/Faf4a/aoi.mongo)  
 `[06/10 10:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `187` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 `[06/10 10:28]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#7`](https://github.com//Faf4a/Vencord/pull/7 '[pull] main from Vendicated:main') in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
@@ -227,10 +231,7 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[05/10 14:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/plugins](https://github.com/Faf4a/plugins)  
 `[05/09 20:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/09 19:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/snippets](https://github.com/Faf4a/snippets)  
-`[05/09 11:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `65` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
-`[05/09 10:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
-`[05/09 01:40]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `Faf4a-patch-1` from [aoijs/website](https://github.com/aoijs/website)  
-`[05/09 01:39]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `Faf4a-patch-2` from [aoijs/website](https://github.com/aoijs/website)  
+`[05/09 11:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `45` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 
 </details>
 <!--END_SECTION:activity-->
