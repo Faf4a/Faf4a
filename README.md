@@ -38,6 +38,7 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[06/18 23:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
 `[06/18 22:28]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#180`](https://github.com//aoijs/website/pull/180 'Update roundTenth.md') in [aoijs/website](https://github.com/aoijs/website)  
 `[06/18 22:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
 `[06/18 22:28]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#180`](https://github.com//aoijs/website/pull/180 'Update roundTenth.md') in [aoijs/website](https://github.com/aoijs/website)  
@@ -47,10 +48,10 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[06/17 18:08]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#30`](https://github.com//aoijs/aoi.dashboard/pull/30 'Added footer on main page') in [aoijs/aoi.dashboard](https://github.com/aoijs/aoi.dashboard)  
 `[06/17 15:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
 `[06/17 15:14]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#179`](https://github.com//aoijs/website/pull/179 'Update queue.md') in [aoijs/website](https://github.com/aoijs/website)  
-`[06/17 14:18]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#179`](https://github.com//aoijs/website/pull/179 'Update queue.md') in [aoijs/website](https://github.com/aoijs/website)  
 
 <details><summary>Show More</summary>
 
+`[06/17 14:18]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#179`](https://github.com//aoijs/website/pull/179 'Update queue.md') in [aoijs/website](https://github.com/aoijs/website)  
 `[06/17 14:18]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#179`](https://github.com//aoijs/website/pull/179 'Update queue.md') in [aoijs/website](https://github.com/aoijs/website)  
 `[06/15 13:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Faf4a/dashboard](https://github.com/Faf4a/dashboard)  
 `[06/15 10:52]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#27`](https://github.com//Faf4a/dashboard/pull/27 'Changes') in [Faf4a/dashboard](https://github.com/Faf4a/dashboard)  
@@ -230,7 +231,6 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[05/10 19:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Platane/snk](https://github.com/Platane/snk)  
 `[05/10 19:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/Faf4a](https://github.com/Faf4a/Faf4a)  
 `[05/10 18:57]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`output`](https://github.com/Faf4a/Faf4a/tree/output) in [Faf4a/Faf4a](https://github.com/Faf4a/Faf4a)  
-`[05/10 18:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/Faf4a](https://github.com/Faf4a/Faf4a)  
 
 </details>
 <!--END_SECTION:activity-->
