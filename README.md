@@ -38,6 +38,7 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[06/20 00:52]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#617`](https://github.com//aoijs/aoi.js/issues/617 'Bug: $roundTenth') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[06/19 23:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/plugins](https://github.com/Faf4a/plugins)  
 `[06/19 05:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Saltssaumure/ClassUpdate](https://github.com/Saltssaumure/ClassUpdate)  
 `[06/19 05:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
@@ -47,10 +48,10 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[06/18 22:28]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#180`](https://github.com//aoijs/website/pull/180 'Update roundTenth.md') in [aoijs/website](https://github.com/aoijs/website)  
 `[06/18 21:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [HiDeoo/starlight-versions](https://github.com/HiDeoo/starlight-versions)  
 `[06/18 01:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [esmBot/esmBot](https://github.com/esmBot/esmBot)  
-`[06/17 18:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.dashboard](https://github.com/aoijs/aoi.dashboard)  
 
 <details><summary>Show More</summary>
 
+`[06/17 18:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.dashboard](https://github.com/aoijs/aoi.dashboard)  
 `[06/17 18:08]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#30`](https://github.com//aoijs/aoi.dashboard/pull/30 'Added footer on main page') in [aoijs/aoi.dashboard](https://github.com/aoijs/aoi.dashboard)  
 `[06/17 15:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
 `[06/17 15:14]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#179`](https://github.com//aoijs/website/pull/179 'Update queue.md') in [aoijs/website](https://github.com/aoijs/website)  
@@ -228,9 +229,6 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[05/11 21:48]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2414`](https://github.com//Vendicated/Vencord/issues/2414 'Dearrow: more options') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[05/11 21:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 `[05/11 11:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dolfies/discord-protos](https://github.com/dolfies/discord-protos)  
-`[05/11 11:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[05/11 00:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/Faf4a](https://github.com/Faf4a/Faf4a)  
-`[05/10 20:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/plugins](https://github.com/Faf4a/plugins)  
 
 </details>
 <!--END_SECTION:activity-->
