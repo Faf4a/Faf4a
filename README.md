@@ -38,6 +38,7 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[06/20 16:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/snippets](https://github.com/Faf4a/snippets)  
 `[06/20 06:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/plugins](https://github.com/Faf4a/plugins)  
 `[06/20 06:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Faf4a/snippets](https://github.com/Faf4a/snippets)  
 `[06/20 00:52]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#617`](https://github.com//aoijs/aoi.js/issues/617 'Bug: $roundTenth') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
@@ -47,10 +48,10 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[06/18 23:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
 `[06/18 22:28]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#180`](https://github.com//aoijs/website/pull/180 'Update roundTenth.md') in [aoijs/website](https://github.com/aoijs/website)  
 `[06/18 22:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
-`[06/18 22:28]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#180`](https://github.com//aoijs/website/pull/180 'Update roundTenth.md') in [aoijs/website](https://github.com/aoijs/website)  
 
 <details><summary>Show More</summary>
 
+`[06/18 22:28]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#180`](https://github.com//aoijs/website/pull/180 'Update roundTenth.md') in [aoijs/website](https://github.com/aoijs/website)  
 `[06/18 21:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [HiDeoo/starlight-versions](https://github.com/HiDeoo/starlight-versions)  
 `[06/18 01:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [esmBot/esmBot](https://github.com/esmBot/esmBot)  
 `[06/17 18:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.dashboard](https://github.com/aoijs/aoi.dashboard)  
@@ -227,7 +228,6 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[05/12 17:35]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#169`](https://github.com//aoijs/website/issues/169 'Update timeoutList.md') in [aoijs/website](https://github.com/aoijs/website)  
 `[05/11 22:01]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`usertags`](https://github.com/Faf4a/Vencord/tree/usertags) in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 `[05/11 22:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
-`[05/11 21:50]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dearrow-opts` from [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 
 </details>
 <!--END_SECTION:activity-->
