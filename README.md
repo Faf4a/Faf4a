@@ -38,7 +38,7 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-`[06/24 08:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/plugins](https://github.com/Faf4a/plugins)  
+`[06/24 18:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/plugins](https://github.com/Faf4a/plugins)  
 `[06/22 18:06]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2611`](https://github.com//Vendicated/Vencord/issues/2611 'When vencord on android?') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[06/21 23:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `19` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 `[06/21 01:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/aoi.mongo](https://github.com/Faf4a/aoi.mongo)  
@@ -226,7 +226,7 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[05/12 23:08]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `constants-rewrite` from [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/12 23:08]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `bump-discordjs` from [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/12 23:08]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#588`](https://github.com//aoijs/aoi.js/pull/588 'feat: $sendPoll , $getPoll, $getPollVotes , PERM: SEND_POLLS') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[05/12 23:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[05/12 23:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 </details>
 <!--END_SECTION:activity-->
