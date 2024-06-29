@@ -38,6 +38,7 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[06/29 08:15]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#181`](https://github.com//aoijs/website/issues/181 'Ban Appeal') in [aoijs/website](https://github.com/aoijs/website)  
 `[06/29 05:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `24` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 `[06/28 16:44]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#620`](https://github.com//aoijs/aoi.js/pull/620 'fix: stopTimeout') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[06/28 16:43]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`timeout-fix`](https://github.com/aoijs/aoi.js/tree/timeout-fix) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
@@ -47,10 +48,10 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[06/28 07:43]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#618`](https://github.com//aoijs/aoi.js/issues/618 'Bug: conditions checks break with vars which are not changed from the default value (6.8.0)') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[06/25 14:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [discord/discord-api-docs](https://github.com/discord/discord-api-docs)  
 `[06/25 13:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/plugins](https://github.com/Faf4a/plugins)  
-`[06/25 13:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 
 <details><summary>Show More</summary>
 
+`[06/25 13:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 `[06/24 18:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Vencord/Docs](https://github.com/Vencord/Docs)  
 `[06/24 18:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/plugins](https://github.com/Faf4a/plugins)  
 `[06/22 18:06]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2611`](https://github.com//Vendicated/Vencord/issues/2611 'When vencord on android?') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
@@ -228,7 +229,6 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[05/14 00:38]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [discordjs/discord.js](https://github.com/discordjs/discord.js) to [Faf4a/discord.js](https://github.com/Faf4a/discord.js)  
 `[05/13 22:09]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#590`](https://github.com//aoijs/aoi.js/issues/590 'Bug: Timeouts break on restart') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/13 18:43]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`dev`](https://github.com/Faf4a/aoi.mongo/tree/dev) in [Faf4a/aoi.mongo](https://github.com/Faf4a/aoi.mongo)  
-`[05/13 14:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [electron/electron](https://github.com/electron/electron)  
 
 </details>
 <!--END_SECTION:activity-->
