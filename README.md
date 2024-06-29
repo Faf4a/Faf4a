@@ -38,6 +38,9 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[06/29 16:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
+`[06/29 16:08]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#182`](https://github.com//aoijs/website/pull/182 'Update textSplitMap.md') in [aoijs/website](https://github.com/aoijs/website)  
+`[06/29 16:08]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#182`](https://github.com//aoijs/website/pull/182 'Update textSplitMap.md') in [aoijs/website](https://github.com/aoijs/website)  
 `[06/29 11:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/snippets](https://github.com/Faf4a/snippets)  
 `[06/29 08:50]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#176`](https://github.com//aoijs/website/pull/176 'Update textSplitMap.md') in [aoijs/website](https://github.com/aoijs/website)  
 `[06/29 08:50]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#181`](https://github.com//aoijs/website/issues/181 'Ban Appeal') in [aoijs/website](https://github.com/aoijs/website)  
@@ -45,12 +48,12 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[06/29 08:15]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#181`](https://github.com//aoijs/website/issues/181 'Ban Appeal') in [aoijs/website](https://github.com/aoijs/website)  
 `[06/29 05:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `24` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 `[06/28 16:44]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#620`](https://github.com//aoijs/aoi.js/pull/620 'fix: stopTimeout') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[06/28 16:43]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`timeout-fix`](https://github.com/aoijs/aoi.js/tree/timeout-fix) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[06/28 15:58]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#619`](https://github.com//aoijs/aoi.js/pull/619 'fix: $clear function') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[06/28 15:58]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`Faf4a-patch-1`](https://github.com/aoijs/aoi.js/tree/Faf4a-patch-1) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 <details><summary>Show More</summary>
 
+`[06/28 16:43]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`timeout-fix`](https://github.com/aoijs/aoi.js/tree/timeout-fix) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[06/28 15:58]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#619`](https://github.com//aoijs/aoi.js/pull/619 'fix: $clear function') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[06/28 15:58]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`Faf4a-patch-1`](https://github.com/aoijs/aoi.js/tree/Faf4a-patch-1) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[06/28 13:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#32`](https://github.com//madewithai/madewithai/issues/32 'Getting Spammed with Invites') in [madewithai/madewithai](https://github.com/madewithai/madewithai)  
 `[06/28 07:43]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#618`](https://github.com//aoijs/aoi.js/issues/618 'Bug: conditions checks break with vars which are not changed from the default value (6.8.0)') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[06/25 14:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [discord/discord-api-docs](https://github.com/discord/discord-api-docs)  
@@ -229,8 +232,7 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[05/14 19:06]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`events`](https://github.com/aoijs/aoi.js/tree/events) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/14 18:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [udecode/plate](https://github.com/udecode/plate)  
 `[05/14 04:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `15` commits in [Faf4a/Faf4a](https://github.com/Faf4a/Faf4a)  
-`[05/14 00:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Faf4a/discord.js](https://github.com/Faf4a/discord.js)  
-`[05/14 00:38]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [discordjs/discord.js](https://github.com/discordjs/discord.js) to [Faf4a/discord.js](https://github.com/Faf4a/discord.js)  
+`[05/14 00:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/discord.js](https://github.com/Faf4a/discord.js)  
 
 </details>
 <!--END_SECTION:activity-->
