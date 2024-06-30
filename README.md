@@ -38,7 +38,7 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-`[06/29 18:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/snippets](https://github.com/Faf4a/snippets)  
+`[06/30 17:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/snippets](https://github.com/Faf4a/snippets)  
 `[06/29 16:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
 `[06/29 16:08]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#182`](https://github.com//aoijs/website/pull/182 'Update textSplitMap.md') in [aoijs/website](https://github.com/aoijs/website)  
 `[06/29 16:08]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#182`](https://github.com//aoijs/website/pull/182 'Update textSplitMap.md') in [aoijs/website](https://github.com/aoijs/website)  
@@ -232,7 +232,7 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[05/14 19:07]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`changes`](https://github.com/aoijs/aoi.js/tree/changes) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/14 19:06]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`events`](https://github.com/aoijs/aoi.js/tree/events) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/14 18:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [udecode/plate](https://github.com/udecode/plate)  
-`[05/14 04:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `15` commits in [Faf4a/Faf4a](https://github.com/Faf4a/Faf4a)  
+`[05/14 04:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [Faf4a/Faf4a](https://github.com/Faf4a/Faf4a)  
 
 </details>
 <!--END_SECTION:activity-->
