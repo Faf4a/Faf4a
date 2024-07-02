@@ -38,19 +38,24 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[07/02 17:07]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#619`](https://github.com//aoijs/aoi.js/pull/619 'fix: $clear function') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[07/02 17:06]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#620`](https://github.com//aoijs/aoi.js/pull/620 'fix: stopTimeout') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[07/02 17:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[07/02 17:01]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#621`](https://github.com//aoijs/aoi.js/pull/621 'fix: arrayPush returning number') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[07/02 17:01]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`Faf4a-patch-2`](https://github.com/aoijs/aoi.js/tree/Faf4a-patch-2) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/02 16:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 `[07/01 12:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/snippets](https://github.com/Faf4a/snippets)  
 `[06/30 19:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
 `[06/30 19:38]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/Faf4a/ThemeLibrary/tree/master) in [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
 `[06/30 19:30]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
+
+<details><summary>Show More</summary>
+
 `[06/30 19:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/plugins](https://github.com/Faf4a/plugins)  
 `[06/30 17:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Faf4a/snippets](https://github.com/Faf4a/snippets)  
 `[06/29 16:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
 `[06/29 16:08]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#182`](https://github.com//aoijs/website/pull/182 'Update textSplitMap.md') in [aoijs/website](https://github.com/aoijs/website)  
 `[06/29 16:08]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#182`](https://github.com//aoijs/website/pull/182 'Update textSplitMap.md') in [aoijs/website](https://github.com/aoijs/website)  
-
-<details><summary>Show More</summary>
-
 `[06/29 11:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/snippets](https://github.com/Faf4a/snippets)  
 `[06/29 08:50]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#176`](https://github.com//aoijs/website/pull/176 'Update textSplitMap.md') in [aoijs/website](https://github.com/aoijs/website)  
 `[06/29 08:50]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#181`](https://github.com//aoijs/website/issues/181 'Ban Appeal') in [aoijs/website](https://github.com/aoijs/website)  
@@ -233,12 +238,6 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[05/15 00:56]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) to [Faf4a/cf-workers-status-page](https://github.com/Faf4a/cf-workers-status-page)  
 `[05/14 22:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `56` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 `[05/14 19:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[05/14 19:08]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#596`](https://github.com//aoijs/aoi.js/pull/596 'events: MessagePollVoteAdd, MessagePollVoteRemove') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[05/14 19:07]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `events` from [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[05/14 19:07]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`changes`](https://github.com/aoijs/aoi.js/tree/changes) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[05/14 19:06]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`events`](https://github.com/aoijs/aoi.js/tree/events) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[05/14 18:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [udecode/plate](https://github.com/udecode/plate)  
-`[05/14 04:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/Faf4a](https://github.com/Faf4a/Faf4a)  
 
 </details>
 <!--END_SECTION:activity-->
