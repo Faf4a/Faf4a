@@ -38,7 +38,7 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-`[07/02 16:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
+`[07/02 16:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 `[07/01 12:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/snippets](https://github.com/Faf4a/snippets)  
 `[06/30 19:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
 `[06/30 19:38]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/Faf4a/ThemeLibrary/tree/master) in [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
@@ -238,7 +238,7 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[05/14 19:07]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`changes`](https://github.com/aoijs/aoi.js/tree/changes) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/14 19:06]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`events`](https://github.com/aoijs/aoi.js/tree/events) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/14 18:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [udecode/plate](https://github.com/udecode/plate)  
-`[05/14 04:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/Faf4a](https://github.com/Faf4a/Faf4a)  
+`[05/14 04:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/Faf4a](https://github.com/Faf4a/Faf4a)  
 
 </details>
 <!--END_SECTION:activity-->
