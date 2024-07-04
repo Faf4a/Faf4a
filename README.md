@@ -38,7 +38,7 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-`[07/03 22:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Faf4a/themesApi](https://github.com/Faf4a/themesApi)  
+`[07/03 23:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Faf4a/themesApi](https://github.com/Faf4a/themesApi)  
 `[07/03 19:39]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Faf4a/themesApi/tree/main) in [Faf4a/themesApi](https://github.com/Faf4a/themesApi)  
 `[07/03 16:28]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Faf4a/themesApi](https://github.com/Faf4a/themesApi)  
 `[07/02 17:07]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#619`](https://github.com//aoijs/aoi.js/pull/619 'fix: $clear function') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
@@ -236,8 +236,7 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[05/16 15:35]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#15`](https://github.com//AkaruiDevelopment/aoi.music/issues/15 '[BUG] $hasPlayer is bugged') in [AkaruiDevelopment/aoi.music](https://github.com/AkaruiDevelopment/aoi.music)  
 `[05/16 15:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `35` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 `[05/16 01:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/plugins](https://github.com/Faf4a/plugins)  
-`[05/15 02:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/Faf4a](https://github.com/Faf4a/Faf4a)  
-`[05/15 01:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/cf-workers-status-page](https://github.com/Faf4a/cf-workers-status-page)  
+`[05/15 02:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/Faf4a](https://github.com/Faf4a/Faf4a)  
 
 </details>
 <!--END_SECTION:activity-->
