@@ -38,6 +38,7 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[07/04 22:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
 `[07/04 21:28]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#610`](https://github.com//aoijs/aoi.js/pull/610 'Add: $wordCount and $editEmbed') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/04 21:28]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#610`](https://github.com//aoijs/aoi.js/pull/610 'Add: $wordCount and $editEmbed') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/04 21:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
@@ -47,10 +48,10 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[07/04 19:27]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#603`](https://github.com//aoijs/aoi.js/issues/603 'createArray with JSON support') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/04 19:23]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#603`](https://github.com//aoijs/aoi.js/issues/603 'createArray with JSON support') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/04 19:23]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#603`](https://github.com//aoijs/aoi.js/pull/603 'createArray with JSON support') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[07/03 23:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Faf4a/themesApi](https://github.com/Faf4a/themesApi)  
 
 <details><summary>Show More</summary>
 
+`[07/03 23:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Faf4a/themesApi](https://github.com/Faf4a/themesApi)  
 `[07/03 19:39]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Faf4a/themesApi/tree/main) in [Faf4a/themesApi](https://github.com/Faf4a/themesApi)  
 `[07/03 16:28]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Faf4a/themesApi](https://github.com/Faf4a/themesApi)  
 `[07/02 17:07]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#619`](https://github.com//aoijs/aoi.js/pull/619 'fix: $clear function') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
@@ -229,7 +230,6 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[05/19 06:31]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#173`](https://github.com//aoijs/website/pull/173 'Update newTicket.md') in [aoijs/website](https://github.com/aoijs/website)  
 `[05/19 06:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
 `[05/18 18:39]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#173`](https://github.com//aoijs/website/issues/173 'Update newTicket.md') in [aoijs/website](https://github.com/aoijs/website)  
-`[05/18 07:04]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1806`](https://github.com//Vendicated/Vencord/pull/1806 'feat(plugin): ToastNotifications') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 
 </details>
 <!--END_SECTION:activity-->
