@@ -38,6 +38,7 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[07/05 16:58]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`interactions`](https://github.com/aoijs/aoi.js/tree/interactions) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/05 16:46]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#625`](https://github.com//aoijs/aoi.js/pull/625 'feat: discordTimestamp') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/05 16:46]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`discord-timestamp`](https://github.com/aoijs/aoi.js/tree/discord-timestamp) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/04 22:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/plugins](https://github.com/Faf4a/plugins)  
@@ -47,10 +48,10 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[07/04 21:28]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#610`](https://github.com//aoijs/aoi.js/pull/610 'Add: $wordCount and $editEmbed') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/04 21:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/04 21:16]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#620`](https://github.com//aoijs/aoi.js/pull/620 'fix: stopTimeout') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[07/04 19:30]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#623`](https://github.com//aoijs/aoi.js/pull/623 'fix: addSelectMenuTo') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 <details><summary>Show More</summary>
 
+`[07/04 19:30]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#623`](https://github.com//aoijs/aoi.js/pull/623 'fix: addSelectMenuTo') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/04 19:30]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`Faf4a-patch-1`](https://github.com/aoijs/aoi.js/tree/Faf4a-patch-1) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/04 19:27]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#603`](https://github.com//aoijs/aoi.js/issues/603 'createArray with JSON support') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/04 19:23]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#603`](https://github.com//aoijs/aoi.js/issues/603 'createArray with JSON support') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
@@ -229,7 +230,6 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[05/19 06:37]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#174`](https://github.com//aoijs/website/pull/174 'test') in [aoijs/website](https://github.com/aoijs/website)  
 `[05/19 06:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
 `[05/19 06:35]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#172`](https://github.com//aoijs/website/pull/172 'Update hasPerms.md') in [aoijs/website](https://github.com/aoijs/website)  
-`[05/19 06:34]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#172`](https://github.com//aoijs/website/issues/172 'Update hasPerms.md') in [aoijs/website](https://github.com/aoijs/website)  
 
 </details>
 <!--END_SECTION:activity-->
