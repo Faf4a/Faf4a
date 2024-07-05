@@ -38,6 +38,7 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[07/05 19:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/themesApi](https://github.com/Faf4a/themesApi)  
 `[07/05 17:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#609`](https://github.com//aoijs/aoi.js/issues/609 'Bug: Button, SelectMenu Parser (v6.8.0)') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/05 17:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#607`](https://github.com//aoijs/aoi.js/issues/607 'Bug: Event') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/05 17:11]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#607`](https://github.com//aoijs/aoi.js/issues/607 'Bug: Event') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
@@ -47,10 +48,10 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[07/05 17:09]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#626`](https://github.com//aoijs/aoi.js/pull/626 'Interactions') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/05 17:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/05 16:58]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`interactions`](https://github.com/aoijs/aoi.js/tree/interactions) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[07/05 16:46]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#625`](https://github.com//aoijs/aoi.js/pull/625 'feat: discordTimestamp') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 <details><summary>Show More</summary>
 
+`[07/05 16:46]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#625`](https://github.com//aoijs/aoi.js/pull/625 'feat: discordTimestamp') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/05 16:46]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`discord-timestamp`](https://github.com/aoijs/aoi.js/tree/discord-timestamp) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/04 22:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/plugins](https://github.com/Faf4a/plugins)  
 `[07/04 22:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/themesApi](https://github.com/Faf4a/themesApi)  
@@ -229,7 +230,7 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[05/20 06:07]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//Faf4a/plugins/issues/1 '[ThemeLibrary] My theme was submitted without prior request of consent. I am not happy') in [Faf4a/plugins](https://github.com/Faf4a/plugins)  
 `[05/20 05:38]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//Faf4a/plugins/issues/1 '[ThemeLibrary] My theme was submitted without prior request of consent. I am not happy') in [Faf4a/plugins](https://github.com/Faf4a/plugins)  
 `[05/20 05:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/plugins](https://github.com/Faf4a/plugins)  
-`[05/20 01:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Faf4a/Faf4a](https://github.com/Faf4a/Faf4a)  
+`[05/20 01:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Faf4a/Faf4a](https://github.com/Faf4a/Faf4a)  
 
 </details>
 <!--END_SECTION:activity-->
