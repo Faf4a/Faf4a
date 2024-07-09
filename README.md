@@ -38,6 +38,7 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[07/08 20:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/snippets](https://github.com/Faf4a/snippets)  
 `[07/07 18:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 `[07/07 18:23]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#13`](https://github.com//Faf4a/Vencord/pull/13 '[pull] main from Vendicated:main') in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 `[07/07 18:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
@@ -47,10 +48,10 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[07/05 19:35]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#616`](https://github.com//aoijs/aoi.js/issues/616 'Bug: Timeouts are bugged') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/05 19:33]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `clr-func` from [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/05 19:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/themesApi](https://github.com/Faf4a/themesApi)  
-`[07/05 17:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#609`](https://github.com//aoijs/aoi.js/issues/609 'Bug: Button, SelectMenu Parser (v6.8.0)') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 <details><summary>Show More</summary>
 
+`[07/05 17:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#609`](https://github.com//aoijs/aoi.js/issues/609 'Bug: Button, SelectMenu Parser (v6.8.0)') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/05 17:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#607`](https://github.com//aoijs/aoi.js/issues/607 'Bug: Event') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/05 17:11]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#607`](https://github.com//aoijs/aoi.js/issues/607 'Bug: Event') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/05 17:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#616`](https://github.com//aoijs/aoi.js/issues/616 'Bug: Timeouts are bugged') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
@@ -230,7 +231,6 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[05/21 10:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 `[05/21 05:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/Music-Guessr](https://github.com/Faf4a/Music-Guessr)  
 `[05/21 05:20]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#588`](https://github.com//Vencord/plugin-requests/issues/588 'Mobile Phone Online Status') in [Vencord/plugin-requests](https://github.com/Vencord/plugin-requests)  
-`[05/21 00:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 
 </details>
 <!--END_SECTION:activity-->
