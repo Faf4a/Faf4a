@@ -38,6 +38,19 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[07/09 19:16]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#616`](https://github.com//aoijs/aoi.js/issues/616 'Bug: Timeouts are bugged') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[07/09 18:39]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#11`](https://github.com//aoijs/aoi.music/issues/11 '[BUG] $queue - incorrect position index of current track playing') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
+`[07/09 18:39]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#14`](https://github.com//aoijs/aoi.music/issues/14 '$autoplay is bugged!') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
+`[07/09 18:39]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#14`](https://github.com//aoijs/aoi.music/issues/14 '$autoplay is bugged!') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
+`[07/09 18:39]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#9`](https://github.com//aoijs/aoi.music/issues/9 '[BUG] $autoplay func') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
+`[07/09 18:39]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#9`](https://github.com//aoijs/aoi.music/issues/9 '[BUG] $autoplay func') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
+`[07/09 18:38]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#17`](https://github.com//aoijs/aoi.music/issues/17 '[BUG] $playTrack[a url;url] does not add to queue ') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
+`[07/09 18:38]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#17`](https://github.com//aoijs/aoi.music/issues/17 '[BUG] $playTrack[a url;url] does not add to queue ') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
+`[07/09 18:38]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#13`](https://github.com//aoijs/aoi.music/issues/13 '$skipto is bugged!') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
+`[07/09 18:38]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#13`](https://github.com//aoijs/aoi.music/issues/13 '$skipto is bugged!') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
+
+<details><summary>Show More</summary>
+
 `[07/08 20:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/snippets](https://github.com/Faf4a/snippets)  
 `[07/07 18:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 `[07/07 18:23]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#13`](https://github.com//Faf4a/Vencord/pull/13 '[pull] main from Vendicated:main') in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
@@ -48,9 +61,6 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[07/05 19:35]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#616`](https://github.com//aoijs/aoi.js/issues/616 'Bug: Timeouts are bugged') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/05 19:33]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `clr-func` from [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/05 19:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/themesApi](https://github.com/Faf4a/themesApi)  
-
-<details><summary>Show More</summary>
-
 `[07/05 17:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#609`](https://github.com//aoijs/aoi.js/issues/609 'Bug: Button, SelectMenu Parser (v6.8.0)') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/05 17:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#607`](https://github.com//aoijs/aoi.js/issues/607 'Bug: Event') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/05 17:11]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#607`](https://github.com//aoijs/aoi.js/issues/607 'Bug: Event') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
@@ -224,13 +234,6 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[05/22 02:12]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#598`](https://github.com//aoijs/aoi.js/pull/598 'loadcmd changes') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/22 02:11]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`loader`](https://github.com/aoijs/aoi.js/tree/loader) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/21 23:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[05/21 23:06]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#597`](https://github.com//aoijs/aoi.js/pull/597 'fix: setTimeout') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[05/21 23:04]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`settimeout-fix`](https://github.com/aoijs/aoi.js/tree/settimeout-fix) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[05/21 10:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
-`[05/21 10:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wei/pull](https://github.com/wei/pull)  
-`[05/21 10:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
-`[05/21 05:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/Music-Guessr](https://github.com/Faf4a/Music-Guessr)  
-`[05/21 05:20]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#588`](https://github.com//Vencord/plugin-requests/issues/588 'Mobile Phone Online Status') in [Vencord/plugin-requests](https://github.com/Vencord/plugin-requests)  
 
 </details>
 <!--END_SECTION:activity-->
