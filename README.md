@@ -38,6 +38,7 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[07/13 00:00]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#610`](https://github.com//aoijs/aoi.js/pull/610 'Add: $wordCount and $editEmbed') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/12 07:02]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#887`](https://github.com//Vencord/plugin-requests/issues/887 'Replace App to Bot') in [Vencord/plugin-requests](https://github.com/Vencord/plugin-requests)  
 `[07/12 06:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
 `[07/11 04:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
@@ -47,10 +48,10 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[07/09 18:39]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#14`](https://github.com//aoijs/aoi.music/issues/14 '$autoplay is bugged!') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[07/09 18:39]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#9`](https://github.com//aoijs/aoi.music/issues/9 '[BUG] $autoplay func') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[07/09 18:39]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#9`](https://github.com//aoijs/aoi.music/issues/9 '[BUG] $autoplay func') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
-`[07/09 18:38]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#17`](https://github.com//aoijs/aoi.music/issues/17 '[BUG] $playTrack[a url;url] does not add to queue ') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 
 <details><summary>Show More</summary>
 
+`[07/09 18:38]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#17`](https://github.com//aoijs/aoi.music/issues/17 '[BUG] $playTrack[a url;url] does not add to queue ') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[07/09 18:38]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#17`](https://github.com//aoijs/aoi.music/issues/17 '[BUG] $playTrack[a url;url] does not add to queue ') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[07/09 18:38]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#13`](https://github.com//aoijs/aoi.music/issues/13 '$skipto is bugged!') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[07/09 18:38]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#13`](https://github.com//aoijs/aoi.music/issues/13 '$skipto is bugged!') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
