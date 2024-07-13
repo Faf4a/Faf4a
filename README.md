@@ -38,6 +38,7 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[07/13 18:55]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#895`](https://github.com//Vencord/plugin-requests/issues/895 'Moving favorite gifs/emojis/stickers etc') in [Vencord/plugin-requests](https://github.com/Vencord/plugin-requests)  
 `[07/13 17:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
 `[07/13 15:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/themesApi](https://github.com/Faf4a/themesApi)  
 `[07/13 10:05]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#4`](https://github.com//Vencord/Docs/pull/4 'Update Information to Plugins and Additional Information') in [Vencord/Docs](https://github.com/Vencord/Docs)  
@@ -47,10 +48,10 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[07/12 06:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
 `[07/11 04:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[07/09 19:16]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#616`](https://github.com//aoijs/aoi.js/issues/616 'Bug: Timeouts are bugged') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[07/09 18:39]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#11`](https://github.com//aoijs/aoi.music/issues/11 '[BUG] $queue - incorrect position index of current track playing') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 
 <details><summary>Show More</summary>
 
+`[07/09 18:39]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#11`](https://github.com//aoijs/aoi.music/issues/11 '[BUG] $queue - incorrect position index of current track playing') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[07/09 18:39]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#14`](https://github.com//aoijs/aoi.music/issues/14 '$autoplay is bugged!') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[07/09 18:39]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#14`](https://github.com//aoijs/aoi.music/issues/14 '$autoplay is bugged!') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[07/09 18:39]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#9`](https://github.com//aoijs/aoi.music/issues/9 '[BUG] $autoplay func') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
@@ -235,7 +236,7 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[05/23 14:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/website](https://github.com/aoijs/website)  
 `[05/23 07:10]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#600`](https://github.com//aoijs/aoi.js/pull/600 'fix: typo') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/23 07:08]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`loader-changes`](https://github.com/aoijs/aoi.js/tree/loader-changes) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[05/22 11:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[05/22 11:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 </details>
 <!--END_SECTION:activity-->
