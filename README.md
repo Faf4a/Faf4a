@@ -38,6 +38,7 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[07/17 17:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/themesApi](https://github.com/Faf4a/themesApi)  
 `[07/17 09:01]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`1.0.0`](https://github.com/aoijs/aoi.cli/tree/1.0.0) in [aoijs/aoi.cli](https://github.com/aoijs/aoi.cli)  
 `[07/16 15:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [alexeyraspopov/picocolors](https://github.com/alexeyraspopov/picocolors)  
 `[07/13 18:55]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#895`](https://github.com//Vencord/plugin-requests/issues/895 'Moving favorite gifs/emojis/stickers etc') in [Vencord/plugin-requests](https://github.com/Vencord/plugin-requests)  
@@ -47,10 +48,10 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[07/13 10:05]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#4`](https://github.com//Vencord/Docs/pull/4 'Update Information to Plugins and Additional Information') in [Vencord/Docs](https://github.com/Vencord/Docs)  
 `[07/13 00:00]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#610`](https://github.com//aoijs/aoi.js/pull/610 'Add: $wordCount and $editEmbed') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/12 07:02]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#887`](https://github.com//Vencord/plugin-requests/issues/887 'Replace App to Bot') in [Vencord/plugin-requests](https://github.com/Vencord/plugin-requests)  
-`[07/12 06:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
 
 <details><summary>Show More</summary>
 
+`[07/12 06:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
 `[07/11 04:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[07/09 19:16]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#616`](https://github.com//aoijs/aoi.js/issues/616 'Bug: Timeouts are bugged') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/09 18:39]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#11`](https://github.com//aoijs/aoi.music/issues/11 '[BUG] $queue - incorrect position index of current track playing') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
@@ -237,7 +238,6 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[05/23 14:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 `[05/23 14:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/website](https://github.com/aoijs/website)  
 `[05/23 07:10]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#600`](https://github.com//aoijs/aoi.js/pull/600 'fix: typo') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[05/23 07:08]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`loader-changes`](https://github.com/aoijs/aoi.js/tree/loader-changes) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 </details>
 <!--END_SECTION:activity-->
