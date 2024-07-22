@@ -237,7 +237,6 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[05/24 10:01]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1`](https://github.com//Faf4a/plugins/issues/1 '[ThemeLibrary] My theme was submitted without prior request of consent. I am not happy') in [Faf4a/plugins](https://github.com/Faf4a/plugins)  
 `[05/24 09:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 `[05/24 03:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[05/23 14:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 
 </details>
 <!--END_SECTION:activity-->
