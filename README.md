@@ -38,7 +38,7 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-`[07/25 20:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
+`[07/25 21:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[07/25 20:26]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`dev`](https://github.com/aoijs/aoi.music/tree/dev) in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[07/24 21:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [be5invis/vscode-custom-css](https://github.com/be5invis/vscode-custom-css)  
 `[07/23 23:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/themesApi](https://github.com/Faf4a/themesApi)  
@@ -237,7 +237,6 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[05/27 10:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
 `[05/26 20:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 `[05/26 09:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/plugins](https://github.com/Faf4a/plugins)  
-`[05/24 10:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 </details>
 <!--END_SECTION:activity-->
