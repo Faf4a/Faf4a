@@ -38,19 +38,23 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[07/26 19:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[07/26 19:49]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#630`](https://github.com//aoijs/aoi.js/pull/630 'Update deafenUser.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[07/26 19:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [berticulousnert/aoi.js](https://github.com/berticulousnert/aoi.js)  
+`[07/26 19:49]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#630`](https://github.com//aoijs/aoi.js/pull/630 'Update deafenUser.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/25 21:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[07/25 21:15]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#20`](https://github.com//aoijs/aoi.music/pull/20 'bump: youtube.js') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[07/25 21:15]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#20`](https://github.com//aoijs/aoi.music/pull/20 'bump: youtube.js') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[07/25 21:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[07/25 20:26]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`dev`](https://github.com/aoijs/aoi.music/tree/dev) in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[07/24 21:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [be5invis/vscode-custom-css](https://github.com/be5invis/vscode-custom-css)  
+
+<details><summary>Show More</summary>
+
 `[07/23 23:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/themesApi](https://github.com/Faf4a/themesApi)  
 `[07/22 19:14]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#933`](https://github.com//Vencord/plugin-requests/issues/933 'Friend Notification Plugin request ') in [Vencord/plugin-requests](https://github.com/Vencord/plugin-requests)  
 `[07/21 11:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Faf4a/themesApi](https://github.com/Faf4a/themesApi)  
 `[07/21 10:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [343dev/optimizt](https://github.com/343dev/optimizt)  
-
-<details><summary>Show More</summary>
-
 `[07/17 17:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/themesApi](https://github.com/Faf4a/themesApi)  
 `[07/17 09:01]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`1.0.0`](https://github.com/aoijs/aoi.cli/tree/1.0.0) in [aoijs/aoi.cli](https://github.com/aoijs/aoi.cli)  
 `[07/16 15:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [alexeyraspopov/picocolors](https://github.com/alexeyraspopov/picocolors)  
@@ -233,10 +237,6 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[05/29 15:52]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#589`](https://github.com//aoijs/aoi.js/issues/589 'Silent Messages') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/29 15:51]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#601`](https://github.com//aoijs/aoi.js/issues/601 'Bug: node:15512 [DEP0137]') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/29 15:51]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#601`](https://github.com//aoijs/aoi.js/issues/601 'Bug: node:15512 [DEP0137]') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[05/29 15:45]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#604`](https://github.com//aoijs/aoi.js/pull/604 'changes') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[05/29 15:43]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`msg-flags`](https://github.com/aoijs/aoi.js/tree/msg-flags) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[05/28 18:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[05/28 10:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 
 </details>
 <!--END_SECTION:activity-->
