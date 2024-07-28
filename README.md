@@ -38,6 +38,7 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[07/28 02:35]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`1.0.1-aoijs`](https://github.com/aoijs/aoi.music/releases/tag/1.0.1-aoijs) in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[07/27 08:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
 `[07/26 19:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/26 19:49]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#630`](https://github.com//aoijs/aoi.js/pull/630 'Update deafenUser.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
@@ -47,10 +48,10 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[07/25 21:15]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#20`](https://github.com//aoijs/aoi.music/pull/20 'bump: youtube.js') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[07/25 21:15]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#20`](https://github.com//aoijs/aoi.music/pull/20 'bump: youtube.js') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[07/25 21:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
-`[07/25 20:26]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`dev`](https://github.com/aoijs/aoi.music/tree/dev) in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 
 <details><summary>Show More</summary>
 
+`[07/25 20:26]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`dev`](https://github.com/aoijs/aoi.music/tree/dev) in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[07/24 21:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [be5invis/vscode-custom-css](https://github.com/be5invis/vscode-custom-css)  
 `[07/23 23:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/themesApi](https://github.com/Faf4a/themesApi)  
 `[07/22 19:14]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#933`](https://github.com//Vencord/plugin-requests/issues/933 'Friend Notification Plugin request ') in [Vencord/plugin-requests](https://github.com/Vencord/plugin-requests)  
@@ -235,7 +236,6 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[05/30 16:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dsdanielpark/Gemini-API](https://github.com/dsdanielpark/Gemini-API)  
 `[05/29 22:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/29 22:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Faf4a/Faf4a](https://github.com/Faf4a/Faf4a)  
-`[05/29 15:52]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#589`](https://github.com//aoijs/aoi.js/issues/589 'Silent Messages') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 </details>
 <!--END_SECTION:activity-->
