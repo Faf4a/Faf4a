@@ -38,6 +38,8 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[07/31 22:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)  
+`[07/31 21:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [SaiaAmako5/aoi.js](https://github.com/SaiaAmako5/aoi.js)  
 `[07/31 19:47]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#633`](https://github.com//aoijs/aoi.js/pull/633 'Fixed arraySort.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/31 19:47]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#633`](https://github.com//aoijs/aoi.js/pull/633 'Fixed arraySort.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/28 02:35]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`1.0.1-aoijs`](https://github.com/aoijs/aoi.music/releases/tag/1.0.1-aoijs) in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
@@ -46,11 +48,11 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[07/26 19:49]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#630`](https://github.com//aoijs/aoi.js/pull/630 'Update deafenUser.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/26 19:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [berticulousnert/aoi.js](https://github.com/berticulousnert/aoi.js)  
 `[07/26 19:49]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#630`](https://github.com//aoijs/aoi.js/pull/630 'Update deafenUser.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[07/25 21:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
-`[07/25 21:15]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#20`](https://github.com//aoijs/aoi.music/pull/20 'bump: youtube.js') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 
 <details><summary>Show More</summary>
 
+`[07/25 21:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
+`[07/25 21:15]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#20`](https://github.com//aoijs/aoi.music/pull/20 'bump: youtube.js') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[07/25 21:15]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#20`](https://github.com//aoijs/aoi.music/pull/20 'bump: youtube.js') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[07/25 21:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[07/25 20:26]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`dev`](https://github.com/aoijs/aoi.music/tree/dev) in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
@@ -237,7 +239,7 @@ Markdown     1 hr 36 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[05/30 18:46]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//Faf4a/aoi.mongo/pull/1 'aoijs renames') in [Faf4a/aoi.mongo](https://github.com/Faf4a/aoi.mongo)  
 `[05/30 16:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dsdanielpark/Gemini-API](https://github.com/dsdanielpark/Gemini-API)  
 `[05/29 22:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[05/29 22:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Faf4a/Faf4a](https://github.com/Faf4a/Faf4a)  
+`[05/29 22:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Faf4a/Faf4a](https://github.com/Faf4a/Faf4a)  
 
 </details>
 <!--END_SECTION:activity-->
