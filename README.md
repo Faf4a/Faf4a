@@ -38,6 +38,9 @@ Markdown     1 hr 36 mins    ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[08/02 04:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [OceanicJS/Oceanic](https://github.com/OceanicJS/Oceanic)  
+`[08/02 04:45]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#635`](https://github.com//aoijs/aoi.js/pull/635 'chore: update pull request template') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[08/02 04:45]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`Faf4a-patch-2`](https://github.com/aoijs/aoi.js/tree/Faf4a-patch-2) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[08/02 04:38]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#634`](https://github.com//aoijs/aoi.js/pull/634 'chore: update reporting bug form') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[08/02 04:38]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`Faf4a-patch-1`](https://github.com/aoijs/aoi.js/tree/Faf4a-patch-1) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[08/02 01:02]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`1.0.2`](https://github.com/aoijs/aoi.music/releases/tag/1.0.2) in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
@@ -45,12 +48,12 @@ Markdown     1 hr 36 mins    ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[07/31 22:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)  
 `[07/31 21:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [SaiaAmako5/aoi.js](https://github.com/SaiaAmako5/aoi.js)  
 `[07/31 19:47]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#633`](https://github.com//aoijs/aoi.js/pull/633 'Fixed arraySort.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[07/31 19:47]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#633`](https://github.com//aoijs/aoi.js/pull/633 'Fixed arraySort.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[07/28 02:35]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`1.0.1-aoijs`](https://github.com/aoijs/aoi.music/releases/tag/1.0.1-aoijs) in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
-`[07/27 08:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
 
 <details><summary>Show More</summary>
 
+`[07/31 19:47]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#633`](https://github.com//aoijs/aoi.js/pull/633 'Fixed arraySort.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[07/28 02:35]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`1.0.1-aoijs`](https://github.com/aoijs/aoi.music/releases/tag/1.0.1-aoijs) in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
+`[07/27 08:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
 `[07/26 19:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/26 19:49]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#630`](https://github.com//aoijs/aoi.js/pull/630 'Update deafenUser.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/26 19:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [berticulousnert/aoi.js](https://github.com/berticulousnert/aoi.js)  
@@ -237,10 +240,6 @@ Markdown     1 hr 36 mins    ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[05/31 18:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 `[05/31 18:22]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#18`](https://github.com//aoijs/aoi.music/pull/18 'fix spotify searching for wrong query') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[05/31 18:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/aoi.music](https://github.com/Faf4a/aoi.music)  
-`[05/30 18:46]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dev` from [Faf4a/aoi.mongo](https://github.com/Faf4a/aoi.mongo)  
-`[05/30 18:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/aoi.mongo](https://github.com/Faf4a/aoi.mongo)  
-`[05/30 18:46]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//Faf4a/aoi.mongo/pull/1 'aoijs renames') in [Faf4a/aoi.mongo](https://github.com/Faf4a/aoi.mongo)  
-`[05/30 18:46]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//Faf4a/aoi.mongo/pull/1 'aoijs renames') in [Faf4a/aoi.mongo](https://github.com/Faf4a/aoi.mongo)  
 
 </details>
 <!--END_SECTION:activity-->
