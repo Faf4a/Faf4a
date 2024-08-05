@@ -38,6 +38,7 @@ Markdown     1 hr 36 mins    ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[08/05 12:42]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`v6-fixes`](https://github.com/aoijs/aoi.js/tree/v6-fixes) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[08/04 05:42]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#636`](https://github.com//aoijs/aoi.js/issues/636 'Bug: Custom Function Type: "aoijs" Doesnt Work') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[08/04 05:42]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#636`](https://github.com//aoijs/aoi.js/issues/636 'Bug: Custom Function Type: "aoijs" Doesnt Work') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[08/04 05:41]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#631`](https://github.com//aoijs/aoi.js/issues/631 'Bug: Loop Bug using textSplit & onlyIf') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
@@ -47,10 +48,10 @@ Markdown     1 hr 36 mins    ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[08/03 20:32]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`rewrite`](https://github.com/aoijs/aoi.dashboard/tree/rewrite) in [aoijs/aoi.dashboard](https://github.com/aoijs/aoi.dashboard)  
 `[08/02 04:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [OceanicJS/Oceanic](https://github.com/OceanicJS/Oceanic)  
 `[08/02 04:45]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#635`](https://github.com//aoijs/aoi.js/pull/635 'chore: update pull request template') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[08/02 04:45]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`Faf4a-patch-2`](https://github.com/aoijs/aoi.js/tree/Faf4a-patch-2) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 <details><summary>Show More</summary>
 
+`[08/02 04:45]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`Faf4a-patch-2`](https://github.com/aoijs/aoi.js/tree/Faf4a-patch-2) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[08/02 04:38]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#634`](https://github.com//aoijs/aoi.js/pull/634 'chore: update reporting bug form') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[08/02 04:38]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`Faf4a-patch-1`](https://github.com/aoijs/aoi.js/tree/Faf4a-patch-1) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[08/02 01:02]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`1.0.2`](https://github.com/aoijs/aoi.music/releases/tag/1.0.2) in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
@@ -239,7 +240,6 @@ Markdown     1 hr 36 mins    ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[06/01 15:42]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#606`](https://github.com//aoijs/aoi.js/issues/606 'Bug: Data Assigned to Parameters Does Not Work Correctly') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[06/01 15:42]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#606`](https://github.com//aoijs/aoi.js/issues/606 'Bug: Data Assigned to Parameters Does Not Work Correctly') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[06/01 15:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[06/01 15:38]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#608`](https://github.com//aoijs/aoi.js/pull/608 'fix: $clear') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 </details>
 <!--END_SECTION:activity-->
