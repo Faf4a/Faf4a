@@ -38,6 +38,7 @@ Markdown     1 hr 36 mins    ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[08/07 08:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
 `[08/05 20:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc)  
 `[08/05 12:42]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`v6-fixes`](https://github.com/aoijs/aoi.js/tree/v6-fixes) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[08/04 05:42]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#636`](https://github.com//aoijs/aoi.js/issues/636 'Bug: Custom Function Type: "aoijs" Doesnt Work') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
@@ -47,10 +48,10 @@ Markdown     1 hr 36 mins    ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[08/04 05:38]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#633`](https://github.com//aoijs/aoi.js/pull/633 'Fixed arraySort.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[08/03 22:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ananay/spotify-carthing-webapp](https://github.com/ananay/spotify-carthing-webapp)  
 `[08/03 20:32]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`rewrite`](https://github.com/aoijs/aoi.dashboard/tree/rewrite) in [aoijs/aoi.dashboard](https://github.com/aoijs/aoi.dashboard)  
-`[08/02 04:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [OceanicJS/Oceanic](https://github.com/OceanicJS/Oceanic)  
 
 <details><summary>Show More</summary>
 
+`[08/02 04:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [OceanicJS/Oceanic](https://github.com/OceanicJS/Oceanic)  
 `[08/02 04:45]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#635`](https://github.com//aoijs/aoi.js/pull/635 'chore: update pull request template') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[08/02 04:45]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`Faf4a-patch-2`](https://github.com/aoijs/aoi.js/tree/Faf4a-patch-2) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[08/02 04:38]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#634`](https://github.com//aoijs/aoi.js/pull/634 'chore: update reporting bug form') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
