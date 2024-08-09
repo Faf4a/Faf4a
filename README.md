@@ -38,6 +38,7 @@ Markdown     1 hr 36 mins    ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[08/09 22:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [iv-org/youtube-trusted-session-generator](https://github.com/iv-org/youtube-trusted-session-generator)  
 `[08/09 18:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/website](https://github.com/aoijs/website)  
 `[08/07 23:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[08/07 09:19]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#637`](https://github.com//aoijs/aoi.js/pull/637 'fixes') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
@@ -47,10 +48,10 @@ Markdown     1 hr 36 mins    ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[08/04 05:42]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#636`](https://github.com//aoijs/aoi.js/issues/636 'Bug: Custom Function Type: "aoijs" Doesnt Work') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[08/04 05:42]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#636`](https://github.com//aoijs/aoi.js/issues/636 'Bug: Custom Function Type: "aoijs" Doesnt Work') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[08/04 05:41]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#631`](https://github.com//aoijs/aoi.js/issues/631 'Bug: Loop Bug using textSplit & onlyIf') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[08/04 05:41]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#631`](https://github.com//aoijs/aoi.js/issues/631 'Bug: Loop Bug using textSplit & onlyIf') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 <details><summary>Show More</summary>
 
+`[08/04 05:41]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#631`](https://github.com//aoijs/aoi.js/issues/631 'Bug: Loop Bug using textSplit & onlyIf') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[08/04 05:38]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#633`](https://github.com//aoijs/aoi.js/pull/633 'Fixed arraySort.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[08/03 22:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ananay/spotify-carthing-webapp](https://github.com/ananay/spotify-carthing-webapp)  
 `[08/03 20:32]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`rewrite`](https://github.com/aoijs/aoi.dashboard/tree/rewrite) in [aoijs/aoi.dashboard](https://github.com/aoijs/aoi.dashboard)  
@@ -238,7 +239,7 @@ Markdown     1 hr 36 mins    ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[06/06 07:46]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#610`](https://github.com//aoijs/aoi.js/pull/610 'Add: $wordCount and $editEmbed') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[06/06 05:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/snippets](https://github.com/Faf4a/snippets)  
 `[06/06 03:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
-`[06/02 14:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Faf4a/plugins](https://github.com/Faf4a/plugins)  
+`[06/02 14:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/plugins](https://github.com/Faf4a/plugins)  
 
 </details>
 <!--END_SECTION:activity-->
