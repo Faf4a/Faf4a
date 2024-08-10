@@ -38,6 +38,7 @@ Markdown     1 hr 36 mins    ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[08/10 01:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[08/10 01:37]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`1.1.0-aoijs`](https://github.com/aoijs/aoi.music/releases/tag/1.1.0-aoijs) in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[08/10 01:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[08/10 01:22]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`1.1.0-aoijs`](https://github.com/aoijs/aoi.music/releases/tag/1.1.0-aoijs) in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
@@ -47,10 +48,10 @@ Markdown     1 hr 36 mins    ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[08/10 01:20]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#21`](https://github.com//aoijs/aoi.music/pull/21 'v1.1.0') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[08/10 01:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[08/10 00:16]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`fix-vc-disconnect`](https://github.com/aoijs/aoi.music/tree/fix-vc-disconnect) in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
-`[08/09 22:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [iv-org/youtube-trusted-session-generator](https://github.com/iv-org/youtube-trusted-session-generator)  
 
 <details><summary>Show More</summary>
 
+`[08/09 22:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [iv-org/youtube-trusted-session-generator](https://github.com/iv-org/youtube-trusted-session-generator)  
 `[08/09 18:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/website](https://github.com/aoijs/website)  
 `[08/07 23:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[08/07 09:19]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#637`](https://github.com//aoijs/aoi.js/pull/637 'fixes') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
