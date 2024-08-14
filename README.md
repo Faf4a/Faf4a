@@ -38,6 +38,7 @@ Markdown     1 hr 37 mins    ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[08/14 13:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[08/13 02:20]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#639`](https://github.com//aoijs/aoi.js/pull/639 'Improvements for httpRequest') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[08/11 22:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[08/11 22:19]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#638`](https://github.com//aoijs/aoi.js/pull/638 'improvement of $textTrim') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
@@ -47,10 +48,10 @@ Markdown     1 hr 37 mins    ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[08/11 22:09]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#558`](https://github.com//aoijs/aoi.js/issues/558 'v6.10 Tracker') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[08/11 21:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[08/10 01:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
-`[08/10 01:37]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`1.1.0-aoijs`](https://github.com/aoijs/aoi.music/releases/tag/1.1.0-aoijs) in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 
 <details><summary>Show More</summary>
 
+`[08/10 01:37]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`1.1.0-aoijs`](https://github.com/aoijs/aoi.music/releases/tag/1.1.0-aoijs) in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[08/10 01:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[08/10 01:22]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`1.1.0-aoijs`](https://github.com/aoijs/aoi.music/releases/tag/1.1.0-aoijs) in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[08/10 01:21]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `fix-vc-disconnect` from [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
@@ -235,7 +236,6 @@ Markdown     1 hr 37 mins    ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 `[06/10 10:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `187` commits in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 `[06/10 10:28]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#7`](https://github.com//Faf4a/Vencord/pull/7 '[pull] main from Vendicated:main') in [Faf4a/Vencord](https://github.com/Faf4a/Vencord)  
 `[06/10 04:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Faf4a/Faf4a](https://github.com/Faf4a/Faf4a)  
-`[06/09 08:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tiramisyuz/ghcss-ext](https://github.com/tiramisyuz/ghcss-ext)  
 
 </details>
 <!--END_SECTION:activity-->
