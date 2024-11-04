@@ -2,7 +2,7 @@
 
 hello, i mainly work on @aoijs related projects
 
-<h6> my time i waste on coding </h6> 
+<h6> my time i waste on coding useless shit </h6> 
 <table><tr><td>
 <!--START_SECTION:waka-->
 
