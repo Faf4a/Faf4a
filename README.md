@@ -19,6 +19,11 @@ Astro         5 hrs 5 mins    ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 </td></tr></table>
 
 <h6> my current stack </h6> 
