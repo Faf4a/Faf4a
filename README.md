@@ -204,6 +204,8 @@ Astro         5 hrs 5 mins    ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <code><img height="20" alt="javascript" src="https://skillicons.dev/icons?i=javascript"></code>
 <code><img height="20" alt="typescript" src="https://skillicons.dev/icons?i=typescript"></code>
 <code><img height="20" alt="react" src="https://skillicons.dev/icons?i=react"></code>
+<code><img height="20" alt="tailwind" src="https://skillicons.dev/icons?i=tailwind"></code>
+<code><img height="20" alt="html" src="https://skillicons.dev/icons?i=html"></code>
 <code><img height="20" alt="astro" src="https://skillicons.dev/icons?i=astro"></code>
 
 <h6> chomik </h6>
