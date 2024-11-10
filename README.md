@@ -21,6 +21,9 @@ Astro         5 hrs 5 mins    ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[11/09 17:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/Faf4a](https://github.com/Faf4a/Faf4a)  
+`[11/09 17:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
+`[11/09 17:14]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#209`](https://github.com//aoijs/website/pull/209 'Update replaceTextWithRegex.md') in [aoijs/website](https://github.com/aoijs/website)  
 `[11/07 07:23]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//Faf4a/snippets/issues/1 'Oneko message bar removes line scrolling limit while writing messages') in [Faf4a/snippets](https://github.com/Faf4a/snippets)  
 `[11/04 08:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/Faf4a](https://github.com/Faf4a/Faf4a)  
 `[11/04 08:16]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2994`](https://github.com//Vendicated/Vencord/pull/2994 'feat(plugin): WebPWA') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
@@ -28,12 +31,12 @@ Astro         5 hrs 5 mins    ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[11/01 15:32]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#208`](https://github.com//aoijs/website/pull/208 'Create getMsgReactions.mdx') in [aoijs/website](https://github.com/aoijs/website)  
 `[10/31 02:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/website](https://github.com/aoijs/website)  
 `[10/29 04:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/stunning-spoon](https://github.com/Faf4a/stunning-spoon)  
-`[10/28 12:54]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [mezotv/discord-badges](https://github.com/mezotv/discord-badges) to [Faf4a/discord-badges](https://github.com/Faf4a/discord-badges)  
-`[10/28 07:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mezotv/discord-badges](https://github.com/mezotv/discord-badges)  
-`[10/27 03:32]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/aoijs/aoijs-template/tree/master) in [aoijs/aoijs-template](https://github.com/aoijs/aoijs-template)  
 
 <details><summary>Show More</summary>
 
+`[10/28 12:54]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [mezotv/discord-badges](https://github.com/mezotv/discord-badges) to [Faf4a/discord-badges](https://github.com/Faf4a/discord-badges)  
+`[10/28 07:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mezotv/discord-badges](https://github.com/mezotv/discord-badges)  
+`[10/27 03:32]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/aoijs/aoijs-template/tree/master) in [aoijs/aoijs-template](https://github.com/aoijs/aoijs-template)  
 `[10/27 03:30]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [aoijs/aoijs-template](https://github.com/aoijs/aoijs-template)  
 `[10/26 23:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[10/26 23:32]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#675`](https://github.com//aoijs/aoi.js/pull/675 'Update ForEachObjectArray.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
@@ -189,9 +192,7 @@ Astro         5 hrs 5 mins    ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[10/09 10:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[10/07 10:46]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#195`](https://github.com//aoijs/website/pull/195 'New functions') in [aoijs/website](https://github.com/aoijs/website)  
 `[10/07 10:46]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#195`](https://github.com//aoijs/website/pull/195 'New functions') in [aoijs/website](https://github.com/aoijs/website)  
-`[10/07 08:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[10/07 06:53]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#665`](https://github.com//aoijs/aoi.js/issues/665 'Bug: $addMessageReactions is broken') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[10/07 06:52]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#664`](https://github.com//aoijs/aoi.js/issues/664 '$if statement runs both sides') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[10/07 08:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 </details>
 <!--END_SECTION:activity-->
