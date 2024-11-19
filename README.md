@@ -21,19 +21,23 @@ Astro         5 hrs 5 mins    ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[11/19 13:25]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#678`](https://github.com//aoijs/aoi.js/issues/678 'add $messageAttachments :)') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[11/19 13:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[11/19 13:25]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#678`](https://github.com//aoijs/aoi.js/pull/678 'add $messageAttachments :)') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[11/19 13:24]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#678`](https://github.com//aoijs/aoi.js/pull/678 'add $messageAttachments :)') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[11/19 01:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/snippets](https://github.com/Faf4a/snippets)  
 `[11/19 01:38]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1`](https://github.com//Faf4a/snippets/issues/1 'Oneko message bar removes line scrolling limit while writing messages') in [Faf4a/snippets](https://github.com/Faf4a/snippets)  
 `[11/19 01:24]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#676`](https://github.com//aoijs/aoi.js/issues/676 'Update addButtonTo.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[11/19 01:24]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#675`](https://github.com//aoijs/aoi.js/issues/675 'Update ForEachObjectArray.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[11/19 01:23]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#678`](https://github.com//aoijs/aoi.js/pull/678 'add $messageAttachments :)') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[11/19 01:21]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `macro-test` from [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+
+<details><summary>Show More</summary>
+
 `[11/19 01:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[11/19 01:20]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#677`](https://github.com//aoijs/aoi.js/pull/677 'V6 Macros') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[11/19 01:20]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#677`](https://github.com//aoijs/aoi.js/pull/677 'V6 Macros') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[11/19 01:19]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`macro-test`](https://github.com/aoijs/aoi.js/tree/macro-test) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-
-<details><summary>Show More</summary>
-
 `[11/18 18:39]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`1.3.0`](https://github.com/aoijs/aoi.music/releases/tag/1.3.0) in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[11/18 18:37]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `memory-leak-fix` from [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[11/18 18:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
@@ -198,10 +202,6 @@ Astro         5 hrs 5 mins    ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[10/12 11:17]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#663`](https://github.com//aoijs/aoi.js/pull/663 'feat: $switch function') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[10/11 16:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[10/11 08:26]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`1.2.4`](https://github.com/aoijs/aoi.music/releases/tag/1.2.4) in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
-`[10/11 08:23]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `memory-leak-fix` from [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
-`[10/11 08:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
-`[10/11 08:23]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#25`](https://github.com//aoijs/aoi.music/pull/25 'fix: thumbnails not being present sometimes & types') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
-`[10/11 08:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 
 </details>
 <!--END_SECTION:activity-->
