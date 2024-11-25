@@ -21,19 +21,25 @@ Astro         5 hrs 5 mins    ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[11/25 17:30]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `update-functions-22` from [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
+`[11/25 17:30]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `update-functions-23` from [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
+`[11/25 17:30]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `update-functions-24` from [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
+`[11/25 17:30]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `update-functions-25` from [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
+`[11/25 17:30]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `update-functions-26` from [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
+`[11/25 17:30]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `update-functions-27` from [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
 `[11/25 13:00]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#210`](https://github.com//aoijs/website/issues/210 'Adding Options to 2 functions') in [aoijs/website](https://github.com/aoijs/website)  
 `[11/25 13:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
 `[11/25 13:00]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#210`](https://github.com//aoijs/website/pull/210 'Adding Options to 2 functions') in [aoijs/website](https://github.com/aoijs/website)  
 `[11/25 11:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)  
+
+<details><summary>Show More</summary>
+
 `[11/22 20:55]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//Faf4a/aoi.sqlite/issues/1 'I do nothing and this error happens, bot shutsdown after') in [Faf4a/aoi.sqlite](https://github.com/Faf4a/aoi.sqlite)  
 `[11/22 20:55]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1`](https://github.com//Faf4a/aoi.sqlite/issues/1 'I do nothing and this error happens, bot shutsdown after') in [Faf4a/aoi.sqlite](https://github.com/Faf4a/aoi.sqlite)  
 `[11/22 20:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/aoi.sqlite](https://github.com/Faf4a/aoi.sqlite)  
 `[11/22 02:12]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `dependabot/npm_and_yarn/cross-spawn-7.0.6` from [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[11/22 02:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[11/22 02:12]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#27`](https://github.com//aoijs/aoi.music/pull/27 'Bump cross-spawn from 7.0.3 to 7.0.6') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
-
-<details><summary>Show More</summary>
-
 `[11/19 13:25]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#678`](https://github.com//aoijs/aoi.js/issues/678 'add $messageAttachments :)') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[11/19 13:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[11/19 13:25]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#678`](https://github.com//aoijs/aoi.js/pull/678 'add $messageAttachments :)') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
@@ -202,9 +208,6 @@ Astro         5 hrs 5 mins    ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[10/13 11:19]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`Faf4a-patch-1`](https://github.com/aoijs/aoi.js/tree/Faf4a-patch-1) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[10/12 20:58]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`meow`](https://github.com/aoijs/aoi.js/tree/meow) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[10/12 18:36]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#667`](https://github.com//aoijs/aoi.js/pull/667 'Added Cache Table deletion') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[10/12 18:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[10/12 18:36]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#667`](https://github.com//aoijs/aoi.js/pull/667 'Added Cache Table deletion') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[10/12 11:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 </details>
 <!--END_SECTION:activity-->
