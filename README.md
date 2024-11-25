@@ -21,6 +21,7 @@ Astro         5 hrs 5 mins    ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[11/25 11:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)  
 `[11/22 20:55]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//Faf4a/aoi.sqlite/issues/1 'I do nothing and this error happens, bot shutsdown after') in [Faf4a/aoi.sqlite](https://github.com/Faf4a/aoi.sqlite)  
 `[11/22 20:55]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1`](https://github.com//Faf4a/aoi.sqlite/issues/1 'I do nothing and this error happens, bot shutsdown after') in [Faf4a/aoi.sqlite](https://github.com/Faf4a/aoi.sqlite)  
 `[11/22 20:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/aoi.sqlite](https://github.com/Faf4a/aoi.sqlite)  
@@ -30,10 +31,10 @@ Astro         5 hrs 5 mins    ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[11/19 13:25]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#678`](https://github.com//aoijs/aoi.js/issues/678 'add $messageAttachments :)') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[11/19 13:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[11/19 13:25]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#678`](https://github.com//aoijs/aoi.js/pull/678 'add $messageAttachments :)') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[11/19 13:24]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#678`](https://github.com//aoijs/aoi.js/pull/678 'add $messageAttachments :)') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 <details><summary>Show More</summary>
 
+`[11/19 13:24]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#678`](https://github.com//aoijs/aoi.js/pull/678 'add $messageAttachments :)') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[11/19 01:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/snippets](https://github.com/Faf4a/snippets)  
 `[11/19 01:38]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1`](https://github.com//Faf4a/snippets/issues/1 'Oneko message bar removes line scrolling limit while writing messages') in [Faf4a/snippets](https://github.com/Faf4a/snippets)  
 `[11/19 01:24]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#676`](https://github.com//aoijs/aoi.js/issues/676 'Update addButtonTo.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
@@ -201,7 +202,6 @@ Astro         5 hrs 5 mins    ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[10/12 18:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[10/12 18:36]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#667`](https://github.com//aoijs/aoi.js/pull/667 'Added Cache Table deletion') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[10/12 11:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[10/12 11:24]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#666`](https://github.com//aoijs/aoi.js/issues/666 'Bug: $awaitMessages error parameter breaks when using embed') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 </details>
 <!--END_SECTION:activity-->
