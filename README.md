@@ -21,6 +21,7 @@ Astro         5 hrs 5 mins    ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[11/30 14:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[11/28 18:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
 `[11/25 17:30]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `update-functions-22` from [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
 `[11/25 17:30]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `update-functions-23` from [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
@@ -30,10 +31,10 @@ Astro         5 hrs 5 mins    ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[11/25 17:30]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `update-functions-27` from [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
 `[11/25 13:00]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#210`](https://github.com//aoijs/website/issues/210 'Adding Options to 2 functions') in [aoijs/website](https://github.com/aoijs/website)  
 `[11/25 13:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
-`[11/25 13:00]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#210`](https://github.com//aoijs/website/pull/210 'Adding Options to 2 functions') in [aoijs/website](https://github.com/aoijs/website)  
 
 <details><summary>Show More</summary>
 
+`[11/25 13:00]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#210`](https://github.com//aoijs/website/pull/210 'Adding Options to 2 functions') in [aoijs/website](https://github.com/aoijs/website)  
 `[11/25 11:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)  
 `[11/22 20:55]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//Faf4a/aoi.sqlite/issues/1 'I do nothing and this error happens, bot shutsdown after') in [Faf4a/aoi.sqlite](https://github.com/Faf4a/aoi.sqlite)  
 `[11/22 20:55]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1`](https://github.com//Faf4a/aoi.sqlite/issues/1 'I do nothing and this error happens, bot shutsdown after') in [Faf4a/aoi.sqlite](https://github.com/Faf4a/aoi.sqlite)  
@@ -207,7 +208,6 @@ Astro         5 hrs 5 mins    ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[10/13 14:52]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Faf4a/stunning-spoon](https://github.com/Faf4a/stunning-spoon)  
 `[10/13 11:19]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#668`](https://github.com//aoijs/aoi.js/pull/668 'fix: customEmoji') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[10/13 11:19]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`Faf4a-patch-1`](https://github.com/aoijs/aoi.js/tree/Faf4a-patch-1) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[10/12 20:58]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`meow`](https://github.com/aoijs/aoi.js/tree/meow) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 </details>
 <!--END_SECTION:activity-->
