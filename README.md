@@ -21,6 +21,24 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[12/03 22:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
+`[12/03 22:04]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#213`](https://github.com//aoijs/website/pull/213 'Update channelName.md') in [aoijs/website](https://github.com/aoijs/website)  
+`[12/03 22:03]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#213`](https://github.com//aoijs/website/pull/213 'Update channelName.md') in [aoijs/website](https://github.com/aoijs/website)  
+`[12/03 22:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
+`[12/03 22:03]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#214`](https://github.com//aoijs/website/pull/214 'Update arrayFilter.md') in [aoijs/website](https://github.com/aoijs/website)  
+`[12/03 22:03]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#214`](https://github.com//aoijs/website/pull/214 'Update arrayFilter.md') in [aoijs/website](https://github.com/aoijs/website)  
+`[12/03 22:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
+`[12/03 22:03]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#215`](https://github.com//aoijs/website/pull/215 'Update channelNSFW.md') in [aoijs/website](https://github.com/aoijs/website)  
+`[12/03 22:03]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#215`](https://github.com//aoijs/website/issues/215 'Update channelNSFW.md') in [aoijs/website](https://github.com/aoijs/website)  
+`[12/03 22:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
+
+<details><summary>Show More</summary>
+
+`[12/03 22:02]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#216`](https://github.com//aoijs/website/pull/216 'Update guildNames.md') in [aoijs/website](https://github.com/aoijs/website)  
+`[12/03 22:02]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#216`](https://github.com//aoijs/website/issues/216 'Update guildNames.md') in [aoijs/website](https://github.com/aoijs/website)  
+`[12/03 21:37]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//aoijs/aoi.cli/issues/1 'build(deps): bump cross-spawn from 7.0.3 to 7.0.6') in [aoijs/aoi.cli](https://github.com/aoijs/aoi.cli)  
+`[12/03 21:37]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#1`](https://github.com//aoijs/aoi.cli/pull/1 'build(deps): bump cross-spawn from 7.0.3 to 7.0.6') in [aoijs/aoi.cli](https://github.com/aoijs/aoi.cli)  
+`[12/03 21:37]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//aoijs/aoi.cli/issues/1 'build(deps): bump cross-spawn from 7.0.3 to 7.0.6') in [aoijs/aoi.cli](https://github.com/aoijs/aoi.cli)  
 `[11/30 17:01]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#211`](https://github.com//aoijs/website/pull/211 'Update guildOwnerID.md') in [aoijs/website](https://github.com/aoijs/website)  
 `[11/30 17:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
 `[11/30 17:01]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#211`](https://github.com//aoijs/website/pull/211 'Update guildOwnerID.md') in [aoijs/website](https://github.com/aoijs/website)  
@@ -31,9 +49,6 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[11/28 18:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
 `[11/25 17:30]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `update-functions-22` from [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
 `[11/25 17:30]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `update-functions-23` from [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
-
-<details><summary>Show More</summary>
-
 `[11/25 17:30]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `update-functions-24` from [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
 `[11/25 17:30]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `update-functions-25` from [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
 `[11/25 17:30]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `update-functions-26` from [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
