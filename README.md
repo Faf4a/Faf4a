@@ -21,6 +21,7 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[12/16 14:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
 `[12/16 14:40]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#218`](https://github.com//aoijs/website/pull/218 'small fixes') in [aoijs/website](https://github.com/aoijs/website)  
 `[12/16 14:40]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#218`](https://github.com//aoijs/website/pull/218 'small fixes') in [aoijs/website](https://github.com/aoijs/website)  
 `[12/03 23:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/stunning-spoon](https://github.com/Faf4a/stunning-spoon)  
@@ -30,10 +31,10 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[12/03 22:04]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#213`](https://github.com//aoijs/website/pull/213 'Update channelName.md') in [aoijs/website](https://github.com/aoijs/website)  
 `[12/03 22:03]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#213`](https://github.com//aoijs/website/pull/213 'Update channelName.md') in [aoijs/website](https://github.com/aoijs/website)  
 `[12/03 22:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
-`[12/03 22:03]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#214`](https://github.com//aoijs/website/pull/214 'Update arrayFilter.md') in [aoijs/website](https://github.com/aoijs/website)  
 
 <details><summary>Show More</summary>
 
+`[12/03 22:03]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#214`](https://github.com//aoijs/website/pull/214 'Update arrayFilter.md') in [aoijs/website](https://github.com/aoijs/website)  
 `[12/03 22:03]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#214`](https://github.com//aoijs/website/pull/214 'Update arrayFilter.md') in [aoijs/website](https://github.com/aoijs/website)  
 `[12/03 22:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
 `[12/03 22:03]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#215`](https://github.com//aoijs/website/pull/215 'Update channelNSFW.md') in [aoijs/website](https://github.com/aoijs/website)  
@@ -214,7 +215,6 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[10/18 00:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [Faf4a/stunning-spoon](https://github.com/Faf4a/stunning-spoon)  
 `[10/17 23:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `30` commits in [Faf4a/stunning-spoon](https://github.com/Faf4a/stunning-spoon)  
 `[10/17 15:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
-`[10/17 13:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/stunning-spoon](https://github.com/Faf4a/stunning-spoon)  
 
 </details>
 <!--END_SECTION:activity-->
