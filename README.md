@@ -21,6 +21,7 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[12/26 22:27]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2`](https://github.com//Faf4a/aoi.mongo/issues/2 'Revert rename') in [Faf4a/aoi.mongo](https://github.com/Faf4a/aoi.mongo)  
 `[12/25 15:08]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#559`](https://github.com//aoijs/aoi.js/issues/559 'New V6 Interpreter') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[12/25 15:08]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#559`](https://github.com//aoijs/aoi.js/issues/559 'New V6 Interpreter') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[12/25 15:08]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#561`](https://github.com//aoijs/aoi.js/issues/561 'V6 Application Commands Rewrite') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
@@ -30,10 +31,10 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[12/25 14:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[12/25 14:55]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#681`](https://github.com//aoijs/aoi.js/pull/681 'Fix macro resolution') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[12/25 14:54]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#681`](https://github.com//aoijs/aoi.js/pull/681 'Fix macro resolution') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[12/24 13:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [refact0r/system24](https://github.com/refact0r/system24)  
 
 <details><summary>Show More</summary>
 
+`[12/24 13:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [refact0r/system24](https://github.com/refact0r/system24)  
 `[12/22 23:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
 `[12/22 23:45]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `update-functions-28` from [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
 `[12/22 23:45]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `update-functions-29` from [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
@@ -247,7 +248,7 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[10/18 00:16]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `update-functions` from [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
 `[10/18 00:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
 `[10/18 00:16]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//Faf4a/aoijs-api/pull/3 '[workflow] Update functions.json') in [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
-`[10/18 00:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [Faf4a/stunning-spoon](https://github.com/Faf4a/stunning-spoon)  
+`[10/18 00:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Faf4a/stunning-spoon](https://github.com/Faf4a/stunning-spoon)  
 
 </details>
 <!--END_SECTION:activity-->
