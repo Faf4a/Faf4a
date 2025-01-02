@@ -21,19 +21,25 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[01/02 07:16]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#675`](https://github.com//aoijs/aoi.js/issues/675 'Update ForEachObjectArray.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[01/02 07:16]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#675`](https://github.com//aoijs/aoi.js/pull/675 'Update ForEachObjectArray.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[01/02 07:16]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#676`](https://github.com//aoijs/aoi.js/issues/676 'Update addButtonTo.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[01/02 07:16]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#676`](https://github.com//aoijs/aoi.js/pull/676 'Update addButtonTo.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[01/02 07:15]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#683`](https://github.com//aoijs/aoi.js/pull/683 'Fix rawLeaderboard.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[01/02 07:15]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#683`](https://github.com//aoijs/aoi.js/pull/683 'Fix rawLeaderboard.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[01/02 02:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Faf4a/themesApi](https://github.com/Faf4a/themesApi)  
 `[12/30 07:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [DishpitDev/Slopify](https://github.com/DishpitDev/Slopify)  
 `[12/28 16:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/themesApi](https://github.com/Faf4a/themesApi)  
 `[12/26 22:27]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2`](https://github.com//Faf4a/aoi.mongo/issues/2 'Revert rename') in [Faf4a/aoi.mongo](https://github.com/Faf4a/aoi.mongo)  
+
+<details><summary>Show More</summary>
+
 `[12/25 15:08]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#559`](https://github.com//aoijs/aoi.js/issues/559 'New V6 Interpreter') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[12/25 15:08]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#559`](https://github.com//aoijs/aoi.js/issues/559 'New V6 Interpreter') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[12/25 15:08]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#561`](https://github.com//aoijs/aoi.js/issues/561 'V6 Application Commands Rewrite') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[12/25 15:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[12/25 15:07]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#682`](https://github.com//aoijs/aoi.js/pull/682 'add components checking') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[12/25 15:07]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#682`](https://github.com//aoijs/aoi.js/pull/682 'add components checking') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-
-<details><summary>Show More</summary>
-
 `[12/25 14:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[12/25 14:55]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#681`](https://github.com//aoijs/aoi.js/pull/681 'Fix macro resolution') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[12/25 14:54]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#681`](https://github.com//aoijs/aoi.js/pull/681 'Fix macro resolution') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
@@ -241,12 +247,7 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[10/18 02:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
 `[10/18 02:19]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `Faf4a-patch-1` from [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
 `[10/18 02:19]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `update-functions` from [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
-`[10/18 02:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in [Faf4a/stunning-spoon](https://github.com/Faf4a/stunning-spoon)  
-`[10/18 01:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
-`[10/18 01:05]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#5`](https://github.com//Faf4a/aoijs-api/pull/5 '[workflow] Update functions.json') in [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
-`[10/18 01:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/stunning-spoon](https://github.com/Faf4a/stunning-spoon)  
-`[10/18 01:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `update-functions` from [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
-`[10/18 00:59]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#4`](https://github.com//Faf4a/aoijs-api/pull/4 '[workflow] Update functions.json') in [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
+`[10/18 02:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [Faf4a/stunning-spoon](https://github.com/Faf4a/stunning-spoon)  
 
 </details>
 <!--END_SECTION:activity-->
