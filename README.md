@@ -21,7 +21,7 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-`[01/02 02:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Faf4a/themesApi](https://github.com/Faf4a/themesApi)  
+`[01/02 02:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [Faf4a/themesApi](https://github.com/Faf4a/themesApi)  
 `[12/30 07:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [DishpitDev/Slopify](https://github.com/DishpitDev/Slopify)  
 `[12/28 16:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/themesApi](https://github.com/Faf4a/themesApi)  
 `[12/26 22:27]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2`](https://github.com//Faf4a/aoi.mongo/issues/2 'Revert rename') in [Faf4a/aoi.mongo](https://github.com/Faf4a/aoi.mongo)  
@@ -247,7 +247,6 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[10/18 01:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/stunning-spoon](https://github.com/Faf4a/stunning-spoon)  
 `[10/18 01:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `update-functions` from [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
 `[10/18 00:59]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#4`](https://github.com//Faf4a/aoijs-api/pull/4 '[workflow] Update functions.json') in [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
-`[10/18 00:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
 
 </details>
 <!--END_SECTION:activity-->
