@@ -207,15 +207,6 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[10/18 14:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
 `[10/18 14:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [aoijs/website](https://github.com/aoijs/website)  
 `[10/18 12:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [HiDeoo/starlight-sidebar-topics](https://github.com/HiDeoo/starlight-sidebar-topics)  
-`[10/18 03:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/website](https://github.com/aoijs/website)  
-`[10/18 03:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/stunning-spoon](https://github.com/Faf4a/stunning-spoon)  
-`[10/18 03:40]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `update-functions` from [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
-`[10/18 03:37]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `update-functions` from [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
-`[10/18 03:37]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#21`](https://github.com//Faf4a/aoijs-api/pull/21 '[workflow] Update functions.json') in [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
-`[10/18 03:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
-`[10/18 03:34]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `update-functions` from [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
-`[10/18 03:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
-`[10/18 03:30]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `update-functions` from [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
 
 </details>
 <!--END_SECTION:activity-->
