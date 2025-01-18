@@ -21,6 +21,8 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[01/18 21:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
+`[01/18 21:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/website](https://github.com/aoijs/website)  
 `[01/12 07:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
 `[01/06 00:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/stunning-spoon](https://github.com/Faf4a/stunning-spoon)  
 `[01/02 23:48]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`1.31`](https://github.com/aoijs/aoi.music/releases/tag/1.31) in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
@@ -29,11 +31,11 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[01/02 21:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/Equicord](https://github.com/Faf4a/Equicord)  
 `[01/02 21:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
 `[01/02 10:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[01/02 10:18]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#683`](https://github.com//aoijs/aoi.js/pull/683 'Fix rawLeaderboard.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[01/02 10:17]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#683`](https://github.com//aoijs/aoi.js/pull/683 'Fix rawLeaderboard.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 <details><summary>Show More</summary>
 
+`[01/02 10:18]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#683`](https://github.com//aoijs/aoi.js/pull/683 'Fix rawLeaderboard.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[01/02 10:17]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#683`](https://github.com//aoijs/aoi.js/pull/683 'Fix rawLeaderboard.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[01/02 10:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/Equicord](https://github.com/Faf4a/Equicord)  
 `[01/02 10:02]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Equicord/Equicord](https://github.com/Equicord/Equicord) to [Faf4a/Equicord](https://github.com/Faf4a/Equicord)  
 `[01/02 09:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
