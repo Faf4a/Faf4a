@@ -205,7 +205,7 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[10/19 17:35]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#670`](https://github.com//aoijs/aoi.js/pull/670 'add property to $guildRoles') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[10/19 17:35]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#670`](https://github.com//aoijs/aoi.js/pull/670 'Update guildRoles.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[10/19 17:34]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#669`](https://github.com//aoijs/aoi.js/pull/669 'Create getMessageReactions.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[10/18 20:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/website](https://github.com/aoijs/website)  
+`[10/18 20:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
 
 </details>
 <!--END_SECTION:activity-->
