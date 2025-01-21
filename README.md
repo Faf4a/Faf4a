@@ -195,8 +195,6 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[10/20 13:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[10/20 13:47]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#671`](https://github.com//aoijs/aoi.js/pull/671 '$getMessageReactions') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[10/20 13:46]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#671`](https://github.com//aoijs/aoi.js/pull/671 'Create getMessageReactions.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[10/20 13:44]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#672`](https://github.com//aoijs/aoi.js/pull/672 'Update cloneEmbed.js - Added return json') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[10/20 13:44]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#672`](https://github.com//aoijs/aoi.js/pull/672 'Update cloneEmbed.js - Added return json') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 </details>
 <!--END_SECTION:activity-->
