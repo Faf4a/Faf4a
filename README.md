@@ -184,7 +184,6 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[10/21 19:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
 `[10/21 19:44]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#207`](https://github.com//aoijs/website/pull/207 'update getGuildBoosters documentation') in [aoijs/website](https://github.com/aoijs/website)  
 `[10/21 19:44]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#207`](https://github.com//aoijs/website/pull/207 'Update and rename getGuildBoosters.md to getGuildBoosters.mdx') in [aoijs/website](https://github.com/aoijs/website)  
-`[10/21 18:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Nuckyz/oceanic-collectors](https://github.com/Nuckyz/oceanic-collectors)  
 
 </details>
 <!--END_SECTION:activity-->
