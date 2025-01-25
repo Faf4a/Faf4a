@@ -172,9 +172,6 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[10/26 23:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[10/26 23:32]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#675`](https://github.com//aoijs/aoi.js/pull/675 'Update ForEachObjectArray.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[10/26 03:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/stunning-spoon](https://github.com/Faf4a/stunning-spoon)  
-`[10/25 06:46]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2`](https://github.com//Faf4a/aoi.sqlite/issues/2 'aoi.sqlite still logs even if logging is set to False') in [Faf4a/aoi.sqlite](https://github.com/Faf4a/aoi.sqlite)  
-`[10/25 06:46]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2`](https://github.com//Faf4a/aoi.sqlite/issues/2 'aoi.sqlite still logs even if logging is set to False') in [Faf4a/aoi.sqlite](https://github.com/Faf4a/aoi.sqlite)  
-`[10/25 06:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/aoi.sqlite](https://github.com/Faf4a/aoi.sqlite)  
 
 </details>
 <!--END_SECTION:activity-->
