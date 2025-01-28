@@ -172,8 +172,6 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[10/29 04:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/stunning-spoon](https://github.com/Faf4a/stunning-spoon)  
 `[10/28 12:54]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [mezotv/discord-badges](https://github.com/mezotv/discord-badges) to [Faf4a/discord-badges](https://github.com/Faf4a/discord-badges)  
 `[10/28 07:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mezotv/discord-badges](https://github.com/mezotv/discord-badges)  
-`[10/27 03:32]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/aoijs/aoijs-template/tree/master) in [aoijs/aoijs-template](https://github.com/aoijs/aoijs-template)  
-`[10/27 03:30]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [aoijs/aoijs-template](https://github.com/aoijs/aoijs-template)  
 
 </details>
 <!--END_SECTION:activity-->
