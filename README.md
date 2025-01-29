@@ -168,7 +168,7 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[11/04 08:16]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#2994`](https://github.com//Vendicated/Vencord/pull/2994 'feat(plugin): WebPWA') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[11/01 16:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [aoijs/website](https://github.com/aoijs/website)  
 `[11/01 15:32]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#208`](https://github.com//aoijs/website/pull/208 'Create getMsgReactions.mdx') in [aoijs/website](https://github.com/aoijs/website)  
-`[10/31 02:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/website](https://github.com/aoijs/website)  
+`[10/31 02:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
 
 </details>
 <!--END_SECTION:activity-->
