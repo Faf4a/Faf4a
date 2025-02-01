@@ -39,8 +39,6 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[01/06 00:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/stunning-spoon](https://github.com/Faf4a/stunning-spoon)  
 `[01/02 23:48]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`1.31`](https://github.com/aoijs/aoi.music/releases/tag/1.31) in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[01/02 23:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
-`[01/02 21:41]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#115`](https://github.com//Equicord/Equicord/pull/115 'update theme library') in [Equicord/Equicord](https://github.com/Equicord/Equicord)  
-`[01/02 21:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/Equicord](https://github.com/Faf4a/Equicord)  
 
 </details>
 <!--END_SECTION:activity-->
