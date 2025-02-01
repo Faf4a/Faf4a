@@ -50,7 +50,6 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[01/02 07:16]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#676`](https://github.com//aoijs/aoi.js/pull/676 'Update addButtonTo.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[01/02 07:15]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#683`](https://github.com//aoijs/aoi.js/pull/683 'Fix rawLeaderboard.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[01/02 07:15]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#683`](https://github.com//aoijs/aoi.js/pull/683 'Fix rawLeaderboard.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[01/02 02:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Faf4a/themesApi](https://github.com/Faf4a/themesApi)  
 
 </details>
 <!--END_SECTION:activity-->
