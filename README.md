@@ -21,6 +21,9 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[02/01 15:35]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#224`](https://github.com//aoijs/website/issues/224 'updated $jsonRequest') in [aoijs/website](https://github.com/aoijs/website)  
+`[02/01 15:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
+`[02/01 15:34]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#224`](https://github.com//aoijs/website/pull/224 'updated $jsonRequest') in [aoijs/website](https://github.com/aoijs/website)  
 `[02/01 15:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
 `[02/01 08:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/themesApi](https://github.com/Faf4a/themesApi)  
 `[01/25 21:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/website](https://github.com/aoijs/website)  
@@ -28,12 +31,12 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[01/25 11:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[01/25 11:59]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#684`](https://github.com//aoijs/aoi.js/pull/684 'Fixed bugs and added something 🐥') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[01/18 21:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
-`[01/18 21:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/website](https://github.com/aoijs/website)  
-`[01/12 07:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
-`[01/06 00:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/stunning-spoon](https://github.com/Faf4a/stunning-spoon)  
 
 <details><summary>Show More</summary>
 
+`[01/18 21:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/website](https://github.com/aoijs/website)  
+`[01/12 07:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
+`[01/06 00:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/stunning-spoon](https://github.com/Faf4a/stunning-spoon)  
 `[01/02 23:48]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`1.31`](https://github.com/aoijs/aoi.music/releases/tag/1.31) in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[01/02 23:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[01/02 21:41]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#115`](https://github.com//Equicord/Equicord/pull/115 'update theme library') in [Equicord/Equicord](https://github.com/Equicord/Equicord)  
