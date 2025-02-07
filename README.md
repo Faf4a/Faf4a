@@ -21,6 +21,9 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[02/07 17:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
+`[02/07 17:00]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#227`](https://github.com//aoijs/website/pull/227 'fixed some typos (also made some 😭 )') in [aoijs/website](https://github.com/aoijs/website)  
+`[02/07 16:59]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#227`](https://github.com//aoijs/website/pull/227 'fixed some typos (also made some 😭 )') in [aoijs/website](https://github.com/aoijs/website)  
 `[02/07 15:42]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#227`](https://github.com//aoijs/website/pull/227 'fixed some typos') in [aoijs/website](https://github.com/aoijs/website)  
 `[02/07 15:42]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#227`](https://github.com//aoijs/website/pull/227 'fixed some typos') in [aoijs/website](https://github.com/aoijs/website)  
 `[02/04 18:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
@@ -28,12 +31,12 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[02/03 13:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
 `[02/03 13:59]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#226`](https://github.com//aoijs/website/pull/226 'fixed some typos') in [aoijs/website](https://github.com/aoijs/website)  
 `[02/03 13:59]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#226`](https://github.com//aoijs/website/pull/226 'fixed some typos') in [aoijs/website](https://github.com/aoijs/website)  
-`[02/01 15:35]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#224`](https://github.com//aoijs/website/issues/224 'updated $jsonRequest') in [aoijs/website](https://github.com/aoijs/website)  
-`[02/01 15:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
-`[02/01 15:34]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#224`](https://github.com//aoijs/website/pull/224 'updated $jsonRequest') in [aoijs/website](https://github.com/aoijs/website)  
 
 <details><summary>Show More</summary>
 
+`[02/01 15:35]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#224`](https://github.com//aoijs/website/issues/224 'updated $jsonRequest') in [aoijs/website](https://github.com/aoijs/website)  
+`[02/01 15:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
+`[02/01 15:34]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#224`](https://github.com//aoijs/website/pull/224 'updated $jsonRequest') in [aoijs/website](https://github.com/aoijs/website)  
 `[02/01 15:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
 `[02/01 08:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/themesApi](https://github.com/Faf4a/themesApi)  
 `[01/25 21:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/website](https://github.com/aoijs/website)  
