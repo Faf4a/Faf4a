@@ -21,19 +21,25 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[02/20 22:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[02/20 22:01]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#686`](https://github.com//aoijs/aoi.js/pull/686 'fix some issues with new http functions') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[02/20 22:01]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#686`](https://github.com//aoijs/aoi.js/issues/686 'fix some issues with new http functions') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[02/20 22:01]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#686`](https://github.com//aoijs/aoi.js/pull/686 'fix some issues with new http functions') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[02/20 22:01]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#686`](https://github.com//aoijs/aoi.js/issues/686 'fix some issues with new http functions') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[02/20 22:01]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#686`](https://github.com//aoijs/aoi.js/pull/686 'fix some issues with new http functions') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[02/20 22:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[02/20 22:00]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#689`](https://github.com//aoijs/aoi.js/pull/689 'fix: $if old parsing') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[02/20 22:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[02/20 22:00]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#691`](https://github.com//aoijs/aoi.js/pull/691 'Fixed getGuild() Util for sharding') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+
+<details><summary>Show More</summary>
+
 `[02/20 22:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[02/20 22:00]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#692`](https://github.com//aoijs/aoi.js/pull/692 'fix $createApplicationCommand for message & user type') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[02/20 21:59]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#692`](https://github.com//aoijs/aoi.js/pull/692 'fix $createApplicationCommand for message & user type') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[02/20 21:58]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#691`](https://github.com//aoijs/aoi.js/pull/691 'Fixed getGuild() Util for sharding') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[02/20 21:57]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#689`](https://github.com//aoijs/aoi.js/pull/689 'fix: $if old parsing') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[02/20 21:57]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#689`](https://github.com//aoijs/aoi.js/issues/689 'fix: $if old parsing') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-
-<details><summary>Show More</summary>
-
 `[02/16 22:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
 `[02/16 22:18]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#228`](https://github.com//aoijs/website/pull/228 'Update guildRandomID.md') in [aoijs/website](https://github.com/aoijs/website)  
 `[02/16 22:18]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#228`](https://github.com//aoijs/website/issues/228 'Update guildRandomID.md') in [aoijs/website](https://github.com/aoijs/website)  
