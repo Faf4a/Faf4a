@@ -21,6 +21,7 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[02/28 23:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
 `[02/28 23:33]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `update-functions-30` from [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
 `[02/28 23:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Faf4a/stunning-spoon](https://github.com/Faf4a/stunning-spoon)  
 `[02/28 20:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
@@ -30,10 +31,10 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[02/20 22:01]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#686`](https://github.com//aoijs/aoi.js/issues/686 'fix some issues with new http functions') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[02/20 22:01]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#686`](https://github.com//aoijs/aoi.js/pull/686 'fix some issues with new http functions') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[02/20 22:01]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#686`](https://github.com//aoijs/aoi.js/issues/686 'fix some issues with new http functions') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[02/20 22:01]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#686`](https://github.com//aoijs/aoi.js/pull/686 'fix some issues with new http functions') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 <details><summary>Show More</summary>
 
+`[02/20 22:01]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#686`](https://github.com//aoijs/aoi.js/pull/686 'fix some issues with new http functions') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[02/20 22:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[02/20 22:00]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#689`](https://github.com//aoijs/aoi.js/pull/689 'fix: $if old parsing') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[02/20 22:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
