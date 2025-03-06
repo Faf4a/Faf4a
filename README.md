@@ -66,7 +66,6 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[02/07 16:59]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#227`](https://github.com//aoijs/website/pull/227 'fixed some typos (also made some 😭 )') in [aoijs/website](https://github.com/aoijs/website)  
 `[02/07 15:42]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#227`](https://github.com//aoijs/website/pull/227 'fixed some typos') in [aoijs/website](https://github.com/aoijs/website)  
 `[02/07 15:42]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#227`](https://github.com//aoijs/website/pull/227 'fixed some typos') in [aoijs/website](https://github.com/aoijs/website)  
-`[02/04 18:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
 
 </details>
 <!--END_SECTION:activity-->
