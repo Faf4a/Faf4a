@@ -64,8 +64,6 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[02/07 17:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
 `[02/07 17:00]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#227`](https://github.com//aoijs/website/pull/227 'fixed some typos (also made some 😭 )') in [aoijs/website](https://github.com/aoijs/website)  
 `[02/07 16:59]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#227`](https://github.com//aoijs/website/pull/227 'fixed some typos (also made some 😭 )') in [aoijs/website](https://github.com/aoijs/website)  
-`[02/07 15:42]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#227`](https://github.com//aoijs/website/pull/227 'fixed some typos') in [aoijs/website](https://github.com/aoijs/website)  
-`[02/07 15:42]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#227`](https://github.com//aoijs/website/pull/227 'fixed some typos') in [aoijs/website](https://github.com/aoijs/website)  
 
 </details>
 <!--END_SECTION:activity-->
