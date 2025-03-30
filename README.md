@@ -67,7 +67,6 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[03/01 15:01]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#229`](https://github.com//aoijs/website/pull/229 'Patch 20') in [aoijs/website](https://github.com/aoijs/website)  
 `[03/01 15:01]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#229`](https://github.com//aoijs/website/issues/229 'Patch 20') in [aoijs/website](https://github.com/aoijs/website)  
 `[02/28 23:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/stunning-spoon](https://github.com/Faf4a/stunning-spoon)  
-`[02/28 23:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/aoijs-api](https://github.com/Faf4a/aoijs-api)  
 
 </details>
 <!--END_SECTION:activity-->
