@@ -72,7 +72,6 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[03/09 15:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[03/09 15:17]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#693`](https://github.com//aoijs/aoi.js/pull/693 'fix: $addButtonTo') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[03/09 15:16]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#693`](https://github.com//aoijs/aoi.js/pull/693 'fix: $addButtonTo') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[03/05 22:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/stunning-spoon](https://github.com/Faf4a/stunning-spoon)  
 
 </details>
 <!--END_SECTION:activity-->
