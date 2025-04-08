@@ -66,12 +66,6 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[03/23 08:23]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#688`](https://github.com//aoijs/aoi.js/pull/688 'bump djs and add forwarding') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[03/20 12:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/website](https://github.com/aoijs/website)  
 `[03/12 21:04]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//aoijs/aoi.vsc/issues/1 'Highlights') in [aoijs/aoi.vsc](https://github.com/aoijs/aoi.vsc)  
-`[03/09 15:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[03/09 15:21]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#690`](https://github.com//aoijs/aoi.js/pull/690 'Create enableComponents.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[03/09 15:21]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#690`](https://github.com//aoijs/aoi.js/pull/690 'Create enableComponents.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[03/09 15:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[03/09 15:17]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#693`](https://github.com//aoijs/aoi.js/pull/693 'fix: $addButtonTo') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[03/09 15:16]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#693`](https://github.com//aoijs/aoi.js/pull/693 'fix: $addButtonTo') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 </details>
 <!--END_SECTION:activity-->
