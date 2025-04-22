@@ -21,19 +21,24 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[04/22 12:51]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `new-branch` from [Faf4a/discord-themes.com](https://github.com/Faf4a/discord-themes.com)  
+`[04/22 12:51]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/Faf4a/discord-themes.com/tree/master) in [Faf4a/discord-themes.com](https://github.com/Faf4a/discord-themes.com)  
+`[04/22 12:51]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `master` from [Faf4a/discord-themes.com](https://github.com/Faf4a/discord-themes.com)  
+`[04/22 12:49]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`new-branch`](https://github.com/Faf4a/discord-themes.com/tree/new-branch) in [Faf4a/discord-themes.com](https://github.com/Faf4a/discord-themes.com)  
+`[04/22 12:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Faf4a/discord-themes.com](https://github.com/Faf4a/discord-themes.com)  
 `[04/22 00:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [discord-userdoccers/discord-userdoccers](https://github.com/discord-userdoccers/discord-userdoccers)  
 `[04/21 23:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Faf4a/discord-themes.com](https://github.com/Faf4a/discord-themes.com)  
 `[04/21 22:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Faf4a/discord-themes.com](https://github.com/Faf4a/discord-themes.com)  
 `[04/21 21:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
 `[04/21 21:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [acquitelol/elle](https://github.com/acquitelol/elle)  
+
+<details><summary>Show More</summary>
+
 `[04/19 13:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `222` commits in [Faf4a/themesApi](https://github.com/Faf4a/themesApi)  
 `[04/18 22:42]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#710`](https://github.com//aoijs/aoi.js/pull/710 'Update addCmdReactions.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[04/18 22:42]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#710`](https://github.com//aoijs/aoi.js/issues/710 'Update addCmdReactions.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[04/18 00:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/stunning-spoon](https://github.com/Faf4a/stunning-spoon)  
 `[04/17 17:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
-
-<details><summary>Show More</summary>
-
 `[04/17 17:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/stunning-spoon](https://github.com/Faf4a/stunning-spoon)  
 `[04/17 02:16]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#710`](https://github.com//aoijs/aoi.js/issues/710 'Update addCmdReactions.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[04/13 15:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
