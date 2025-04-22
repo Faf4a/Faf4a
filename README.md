@@ -21,6 +21,7 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[04/22 13:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/themesApi](https://github.com/Faf4a/themesApi)  
 `[04/22 13:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/discord-themes.com](https://github.com/Faf4a/discord-themes.com)  
 `[04/22 13:31]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `new-branch` from [Faf4a/discord-themes.com](https://github.com/Faf4a/discord-themes.com)  
 `[04/22 13:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/discord-themes.com](https://github.com/Faf4a/discord-themes.com)  
@@ -30,10 +31,10 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[04/22 12:51]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `master` from [Faf4a/discord-themes.com](https://github.com/Faf4a/discord-themes.com)  
 `[04/22 12:49]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`new-branch`](https://github.com/Faf4a/discord-themes.com/tree/new-branch) in [Faf4a/discord-themes.com](https://github.com/Faf4a/discord-themes.com)  
 `[04/22 12:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Faf4a/discord-themes.com](https://github.com/Faf4a/discord-themes.com)  
-`[04/22 00:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [discord-userdoccers/discord-userdoccers](https://github.com/discord-userdoccers/discord-userdoccers)  
 
 <details><summary>Show More</summary>
 
+`[04/22 00:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [discord-userdoccers/discord-userdoccers](https://github.com/discord-userdoccers/discord-userdoccers)  
 `[04/21 23:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Faf4a/discord-themes.com](https://github.com/Faf4a/discord-themes.com)  
 `[04/21 22:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Faf4a/discord-themes.com](https://github.com/Faf4a/discord-themes.com)  
 `[04/21 21:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
