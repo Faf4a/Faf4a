@@ -66,7 +66,6 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[03/29 16:08]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#694`](https://github.com//aoijs/aoi.js/issues/694 'Untimeout') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[03/29 16:07]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#700`](https://github.com//aoijs/aoi.js/issues/700 'feat: ensure consistent interaction name (customId) behavior between MessageComponent and Modal') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[03/29 16:07]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#700`](https://github.com//aoijs/aoi.js/issues/700 'feat: ensure consistent interaction name (customId) behavior between MessageComponent and Modal') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[03/28 21:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/themesApi](https://github.com/Faf4a/themesApi)  
 
 </details>
 <!--END_SECTION:activity-->
