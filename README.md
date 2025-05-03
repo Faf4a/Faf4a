@@ -49,9 +49,6 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[04/13 15:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
 `[04/13 15:56]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#233`](https://github.com//aoijs/website/pull/233 'Bump @babel/helpers from 7.26.7 to 7.27.0') in [aoijs/website](https://github.com/aoijs/website)  
 `[04/10 18:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tryforge/ForgeScript](https://github.com/tryforge/ForgeScript)  
-`[04/03 20:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[04/03 20:08]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#705`](https://github.com//aoijs/aoi.js/pull/705 'fix: separator not working in $numberSeparator') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[04/03 20:07]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#705`](https://github.com//aoijs/aoi.js/pull/705 'fix: separator not working in $numberSeparator') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 </details>
 <!--END_SECTION:activity-->
