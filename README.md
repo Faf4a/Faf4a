@@ -22,6 +22,8 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:activity-->
 `[05/17 07:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
+`[05/17 07:15]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#31`](https://github.com//aoijs/aoi.music/pull/31 'Bump youtubei.js version') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
+`[05/17 07:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[05/17 07:15]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#30`](https://github.com//aoijs/aoi.music/pull/30 'fix: cookie typo') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[05/16 19:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/discord-themes.com](https://github.com/Faf4a/discord-themes.com)  
 `[05/16 18:39]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v6.10.1`](https://github.com/aoijs/aoi.js/releases/tag/v6.10.1) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
@@ -29,11 +31,11 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[05/16 17:28]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`v6.10.0`](https://github.com/aoijs/aoi.js/releases/tag/v6.10.0) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/16 17:16]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`update`](https://github.com/aoijs/aoi.js/tree/update) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/16 17:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[05/16 17:05]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#708`](https://github.com//aoijs/aoi.js/pull/708 'fix: timeout can\'t be stopped') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[05/16 17:04]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#708`](https://github.com//aoijs/aoi.js/pull/708 'fix: timeout can\'t be stopped') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 <details><summary>Show More</summary>
 
+`[05/16 17:05]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#708`](https://github.com//aoijs/aoi.js/pull/708 'fix: timeout can\'t be stopped') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[05/16 17:04]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#708`](https://github.com//aoijs/aoi.js/pull/708 'fix: timeout can\'t be stopped') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/16 17:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/16 17:04]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#711`](https://github.com//aoijs/aoi.js/pull/711 'components v2 implementation for the parser') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/16 17:04]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#711`](https://github.com//aoijs/aoi.js/pull/711 'components v2 implementation for the parser') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
@@ -88,7 +90,7 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[04/18 22:42]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#710`](https://github.com//aoijs/aoi.js/issues/710 'Update addCmdReactions.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[04/18 00:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/stunning-spoon](https://github.com/Faf4a/stunning-spoon)  
 `[04/17 17:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
-`[04/17 17:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/stunning-spoon](https://github.com/Faf4a/stunning-spoon)  
+`[04/17 17:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/stunning-spoon](https://github.com/Faf4a/stunning-spoon)  
 
 </details>
 <!--END_SECTION:activity-->
