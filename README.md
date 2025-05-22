@@ -96,7 +96,6 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[04/22 12:51]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `master` from [Faf4a/discord-themes.com](https://github.com/Faf4a/discord-themes.com)  
 `[04/22 12:49]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`new-branch`](https://github.com/Faf4a/discord-themes.com/tree/new-branch) in [Faf4a/discord-themes.com](https://github.com/Faf4a/discord-themes.com)  
 `[04/22 12:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Faf4a/discord-themes.com](https://github.com/Faf4a/discord-themes.com)  
-`[04/22 00:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [discord-userdoccers/discord-userdoccers](https://github.com/discord-userdoccers/discord-userdoccers)  
 
 </details>
 <!--END_SECTION:activity-->
