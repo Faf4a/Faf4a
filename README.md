@@ -21,6 +21,7 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[05/29 08:50]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2`](https://github.com//extendify-mod/extendify/issues/2 'extendify causes spotify to fail to load') in [extendify-mod/extendify](https://github.com/extendify-mod/extendify)  
 `[05/28 20:47]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/Faf4a/aoi-vsc/tree/master) in [Faf4a/aoi-vsc](https://github.com/Faf4a/aoi-vsc)  
 `[05/28 20:46]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Faf4a/aoi-vsc](https://github.com/Faf4a/aoi-vsc)  
 `[05/28 20:46]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Faf4a/aoi-vsc/tree/main) in [Faf4a/aoi-vsc](https://github.com/Faf4a/aoi-vsc)  
@@ -30,10 +31,10 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[05/27 15:42]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [skyra-project/discord-components](https://github.com/skyra-project/discord-components) to [Faf4a/discord-components](https://github.com/Faf4a/discord-components)  
 `[05/27 15:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [NilPointer-Software/mdbook-discord-components](https://github.com/NilPointer-Software/mdbook-discord-components)  
 `[05/27 13:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [extendify-mod/extendify](https://github.com/extendify-mod/extendify)  
-`[05/23 13:01]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `Vishvaas06-patch-1` from [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 <details><summary>Show More</summary>
 
+`[05/23 13:01]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `Vishvaas06-patch-1` from [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/23 13:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/23 13:01]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#719`](https://github.com//aoijs/aoi.js/pull/719 'Makes Interaction deferable before $onlyif') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/21 15:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
