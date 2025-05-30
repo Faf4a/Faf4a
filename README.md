@@ -21,6 +21,7 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[05/29 13:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/themesApi](https://github.com/Faf4a/themesApi)  
 `[05/29 13:31]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#720`](https://github.com//aoijs/aoi.js/issues/720 'Update parsers.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/29 13:31]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#720`](https://github.com//aoijs/aoi.js/pull/720 'Update parsers.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/29 13:31]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#722`](https://github.com//aoijs/aoi.js/pull/722 'Fix guildExists') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
@@ -30,10 +31,10 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[05/28 20:47]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/Faf4a/aoi-vsc/tree/master) in [Faf4a/aoi-vsc](https://github.com/Faf4a/aoi-vsc)  
 `[05/28 20:46]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Faf4a/aoi-vsc](https://github.com/Faf4a/aoi-vsc)  
 `[05/28 20:46]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Faf4a/aoi-vsc/tree/main) in [Faf4a/aoi-vsc](https://github.com/Faf4a/aoi-vsc)  
-`[05/28 20:20]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/Faf4a/yugo/tree/master) in [Faf4a/yugo](https://github.com/Faf4a/yugo)  
 
 <details><summary>Show More</summary>
 
+`[05/28 20:20]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/Faf4a/yugo/tree/master) in [Faf4a/yugo](https://github.com/Faf4a/yugo)  
 `[05/28 20:19]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Faf4a/yugo](https://github.com/Faf4a/yugo)  
 `[05/28 17:06]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#2`](https://github.com//extendify-mod/extendify/issues/2 'extendify causes spotify to fail to load') in [extendify-mod/extendify](https://github.com/extendify-mod/extendify)  
 `[05/27 15:42]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [skyra-project/discord-components](https://github.com/skyra-project/discord-components) to [Faf4a/discord-components](https://github.com/Faf4a/discord-components)  
