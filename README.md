@@ -21,19 +21,24 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[05/31 12:40]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#723`](https://github.com//aoijs/aoi.js/issues/723 'Poll Parser') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[05/31 12:40]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#723`](https://github.com//aoijs/aoi.js/issues/723 'Poll Parser') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[05/31 12:39]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#723`](https://github.com//aoijs/aoi.js/issues/723 'Poll Parser') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[05/31 12:37]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#723`](https://github.com//aoijs/aoi.js/pull/723 'Poll Parser') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[05/31 12:37]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#723`](https://github.com//aoijs/aoi.js/pull/723 'Poll Parser') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/30 07:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Faf4a/discord-preview](https://github.com/Faf4a/discord-preview)  
 `[05/30 05:26]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Faf4a/discord-preview/tree/main) in [Faf4a/discord-preview](https://github.com/Faf4a/discord-preview)  
 `[05/30 05:24]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Faf4a/discord-preview](https://github.com/Faf4a/discord-preview)  
 `[05/29 13:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/themesApi](https://github.com/Faf4a/themesApi)  
 `[05/29 13:31]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#720`](https://github.com//aoijs/aoi.js/issues/720 'Update parsers.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+
+<details><summary>Show More</summary>
+
 `[05/29 13:31]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#720`](https://github.com//aoijs/aoi.js/pull/720 'Update parsers.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/29 13:31]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#722`](https://github.com//aoijs/aoi.js/pull/722 'Fix guildExists') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/29 13:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/29 13:31]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#722`](https://github.com//aoijs/aoi.js/issues/722 'Fix guildExists') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/29 08:50]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2`](https://github.com//extendify-mod/extendify/issues/2 'extendify causes spotify to fail to load') in [extendify-mod/extendify](https://github.com/extendify-mod/extendify)  
-
-<details><summary>Show More</summary>
-
 `[05/28 20:47]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/Faf4a/aoi-vsc/tree/master) in [Faf4a/aoi-vsc](https://github.com/Faf4a/aoi-vsc)  
 `[05/28 20:46]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Faf4a/aoi-vsc](https://github.com/Faf4a/aoi-vsc)  
 `[05/28 20:46]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Faf4a/aoi-vsc/tree/main) in [Faf4a/aoi-vsc](https://github.com/Faf4a/aoi-vsc)  
