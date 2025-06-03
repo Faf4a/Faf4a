@@ -21,7 +21,9 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-`[06/01 21:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/discord-themes.com](https://github.com/Faf4a/discord-themes.com)  
+`[06/02 20:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Faf4a/discord-themes.com](https://github.com/Faf4a/discord-themes.com)  
+`[06/02 20:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/themesApi](https://github.com/Faf4a/themesApi)  
+`[06/02 19:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/discord-themes.com](https://github.com/Faf4a/discord-themes.com)  
 `[05/31 12:40]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#723`](https://github.com//aoijs/aoi.js/issues/723 'Poll Parser') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/31 12:40]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#723`](https://github.com//aoijs/aoi.js/issues/723 'Poll Parser') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/31 12:39]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#723`](https://github.com//aoijs/aoi.js/issues/723 'Poll Parser') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
@@ -29,11 +31,11 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[05/31 12:37]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#723`](https://github.com//aoijs/aoi.js/pull/723 'Poll Parser') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/30 07:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Faf4a/discord-preview](https://github.com/Faf4a/discord-preview)  
 `[05/30 05:26]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Faf4a/discord-preview/tree/main) in [Faf4a/discord-preview](https://github.com/Faf4a/discord-preview)  
-`[05/30 05:24]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Faf4a/discord-preview](https://github.com/Faf4a/discord-preview)  
-`[05/29 13:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/themesApi](https://github.com/Faf4a/themesApi)  
 
 <details><summary>Show More</summary>
 
+`[05/30 05:24]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Faf4a/discord-preview](https://github.com/Faf4a/discord-preview)  
+`[05/29 13:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/themesApi](https://github.com/Faf4a/themesApi)  
 `[05/29 13:31]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#720`](https://github.com//aoijs/aoi.js/issues/720 'Update parsers.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/29 13:31]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#720`](https://github.com//aoijs/aoi.js/pull/720 'Update parsers.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/29 13:31]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#722`](https://github.com//aoijs/aoi.js/pull/722 'Fix guildExists') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
