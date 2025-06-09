@@ -111,8 +111,6 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[05/09 18:40]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#708`](https://github.com//aoijs/aoi.js/issues/708 'fix: timeout can\'t be stopped') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/09 18:39]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#711`](https://github.com//aoijs/aoi.js/issues/711 'components v2 implementation for the parser') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/09 18:39]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#711`](https://github.com//aoijs/aoi.js/issues/711 'components v2 implementation for the parser') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[05/09 12:52]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#711`](https://github.com//aoijs/aoi.js/pull/711 'components v2 implementation for the parser') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[05/09 12:51]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#711`](https://github.com//aoijs/aoi.js/issues/711 'components v2 implementation for the parser') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 </details>
 <!--END_SECTION:activity-->
