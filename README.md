@@ -107,9 +107,6 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[05/11 09:37]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1806`](https://github.com//Vendicated/Vencord/issues/1806 'feat(plugin): ToastNotifications') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[05/10 18:20]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#712`](https://github.com//aoijs/aoi.js/pull/712 'Update addButton.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/10 18:20]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#712`](https://github.com//aoijs/aoi.js/issues/712 'Update addButton.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[05/10 11:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[05/10 11:40]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#702`](https://github.com//aoijs/aoi.js/pull/702 'feat: add optional encoding to $attachment') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[05/10 11:40]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#702`](https://github.com//aoijs/aoi.js/pull/702 'feat: add optional encoding to $attachment') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 </details>
 <!--END_SECTION:activity-->
