@@ -103,8 +103,6 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[05/16 14:09]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#713`](https://github.com//aoijs/aoi.js/pull/713 'Fixed $create thread') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/16 14:00]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#713`](https://github.com//aoijs/aoi.js/pull/713 'Fixed $create thread') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/14 03:40]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#708`](https://github.com//aoijs/aoi.js/issues/708 'fix: timeout can\'t be stopped') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[05/11 09:42]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#708`](https://github.com//aoijs/aoi.js/issues/708 'fix: timeout can\'t be stopped') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[05/11 09:37]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1806`](https://github.com//Vendicated/Vencord/issues/1806 'feat(plugin): ToastNotifications') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 
 </details>
 <!--END_SECTION:activity-->
