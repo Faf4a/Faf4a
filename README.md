@@ -21,6 +21,8 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[06/13 20:13]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#7`](https://github.com//sadan4/dotfiles/pull/7 'replace outdated ts-node with tsx') in [sadan4/dotfiles](https://github.com/sadan4/dotfiles)  
+`[06/13 20:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#7`](https://github.com//sadan4/dotfiles/issues/7 'replace outdated ts-node with tsx') in [sadan4/dotfiles](https://github.com/sadan4/dotfiles)  
 `[06/13 19:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [Faf4a/soup](https://github.com/Faf4a/soup)  
 `[06/13 19:31]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1749`](https://github.com//Vendicated/Vencord/issues/1749 'Plugin README images thread') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[06/13 19:05]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#234`](https://github.com//aoijs/website/issues/234 'Bump prismjs from 1.29.0 to 1.30.0') in [aoijs/website](https://github.com/aoijs/website)  
@@ -29,11 +31,11 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[06/13 19:05]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#235`](https://github.com//aoijs/website/issues/235 'Bump @babel/runtime from 7.26.7 to 7.27.0') in [aoijs/website](https://github.com/aoijs/website)  
 `[06/13 19:04]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#235`](https://github.com//aoijs/website/pull/235 'Bump @babel/runtime from 7.26.7 to 7.27.0') in [aoijs/website](https://github.com/aoijs/website)  
 `[06/13 19:02]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `Vishvaas06-guildRoles` from [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[06/13 19:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[06/13 19:02]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#724`](https://github.com//aoijs/aoi.js/pull/724 'fix: mention type being invalid in $guildRoles') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 <details><summary>Show More</summary>
 
+`[06/13 19:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[06/13 19:02]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#724`](https://github.com//aoijs/aoi.js/pull/724 'fix: mention type being invalid in $guildRoles') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[06/13 19:02]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#724`](https://github.com//aoijs/aoi.js/issues/724 'fix: mention type being invalid in $guildRoles') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[06/13 19:02]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#724`](https://github.com//aoijs/aoi.js/pull/724 'fix: mention type being invalid in $guildRoles') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[06/13 18:58]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#725`](https://github.com//aoijs/aoi.js/pull/725 'Update referenceUserId.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
