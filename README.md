@@ -21,6 +21,7 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[06/13 18:51]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#240`](https://github.com//aoijs/website/issues/240 'Update index.mdx') in [aoijs/website](https://github.com/aoijs/website)  
 `[06/12 03:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
 `[06/12 03:22]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#6`](https://github.com//Faf4a/ThemeLibrary/pull/6 'They changed the name of the import') in [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
 `[06/10 20:15]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#239`](https://github.com//aoijs/website/pull/239 'Parser Guide Improvements & Fixes') in [aoijs/website](https://github.com/aoijs/website)  
@@ -30,10 +31,10 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[06/09 11:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/soup](https://github.com/Faf4a/soup)  
 `[06/09 10:49]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Vendicated/Vencord](https://github.com/Vendicated/Vencord) to [Faf4a/soup](https://github.com/Faf4a/soup)  
 `[06/09 10:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Faf4a/vc-useraffinities](https://github.com/Faf4a/vc-useraffinities)  
-`[06/08 20:51]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `main` from [Faf4a/vc-useraffinities](https://github.com/Faf4a/vc-useraffinities)  
 
 <details><summary>Show More</summary>
 
+`[06/08 20:51]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `main` from [Faf4a/vc-useraffinities](https://github.com/Faf4a/vc-useraffinities)  
 `[06/08 20:50]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/Faf4a/vc-useraffinities/tree/master) in [Faf4a/vc-useraffinities](https://github.com/Faf4a/vc-useraffinities)  
 `[06/08 20:42]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Faf4a/vc-useraffinities](https://github.com/Faf4a/vc-useraffinities)  
 `[06/08 20:42]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Faf4a/vc-useraffinities/tree/main) in [Faf4a/vc-useraffinities](https://github.com/Faf4a/vc-useraffinities)  
