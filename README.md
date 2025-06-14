@@ -21,6 +21,24 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[06/13 19:05]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#234`](https://github.com//aoijs/website/issues/234 'Bump prismjs from 1.29.0 to 1.30.0') in [aoijs/website](https://github.com/aoijs/website)  
+`[06/13 19:05]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#234`](https://github.com//aoijs/website/pull/234 'Bump prismjs from 1.29.0 to 1.30.0') in [aoijs/website](https://github.com/aoijs/website)  
+`[06/13 19:05]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#235`](https://github.com//aoijs/website/issues/235 'Bump @babel/runtime from 7.26.7 to 7.27.0') in [aoijs/website](https://github.com/aoijs/website)  
+`[06/13 19:05]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#235`](https://github.com//aoijs/website/issues/235 'Bump @babel/runtime from 7.26.7 to 7.27.0') in [aoijs/website](https://github.com/aoijs/website)  
+`[06/13 19:04]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#235`](https://github.com//aoijs/website/pull/235 'Bump @babel/runtime from 7.26.7 to 7.27.0') in [aoijs/website](https://github.com/aoijs/website)  
+`[06/13 19:02]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `Vishvaas06-guildRoles` from [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[06/13 19:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[06/13 19:02]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#724`](https://github.com//aoijs/aoi.js/pull/724 'fix: mention type being invalid in $guildRoles') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[06/13 19:02]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#724`](https://github.com//aoijs/aoi.js/issues/724 'fix: mention type being invalid in $guildRoles') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[06/13 19:02]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#724`](https://github.com//aoijs/aoi.js/pull/724 'fix: mention type being invalid in $guildRoles') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+
+<details><summary>Show More</summary>
+
+`[06/13 18:58]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#725`](https://github.com//aoijs/aoi.js/pull/725 'Update referenceUserId.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[06/13 18:58]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#725`](https://github.com//aoijs/aoi.js/pull/725 'Update referenceUserId.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[06/13 18:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
+`[06/13 18:56]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#239`](https://github.com//aoijs/website/pull/239 'Parser Guide Improvements & Fixes') in [aoijs/website](https://github.com/aoijs/website)  
+`[06/13 18:55]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#239`](https://github.com//aoijs/website/issues/239 'Parser Guide Improvements & Fixes') in [aoijs/website](https://github.com/aoijs/website)  
 `[06/13 18:51]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#240`](https://github.com//aoijs/website/issues/240 'Update index.mdx') in [aoijs/website](https://github.com/aoijs/website)  
 `[06/12 03:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
 `[06/12 03:22]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#6`](https://github.com//Faf4a/ThemeLibrary/pull/6 'They changed the name of the import') in [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
@@ -31,9 +49,6 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[06/09 11:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/soup](https://github.com/Faf4a/soup)  
 `[06/09 10:49]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Vendicated/Vencord](https://github.com/Vendicated/Vencord) to [Faf4a/soup](https://github.com/Faf4a/soup)  
 `[06/09 10:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Faf4a/vc-useraffinities](https://github.com/Faf4a/vc-useraffinities)  
-
-<details><summary>Show More</summary>
-
 `[06/08 20:51]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `main` from [Faf4a/vc-useraffinities](https://github.com/Faf4a/vc-useraffinities)  
 `[06/08 20:50]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/Faf4a/vc-useraffinities/tree/master) in [Faf4a/vc-useraffinities](https://github.com/Faf4a/vc-useraffinities)  
 `[06/08 20:42]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Faf4a/vc-useraffinities](https://github.com/Faf4a/vc-useraffinities)  
