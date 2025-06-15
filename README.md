@@ -21,6 +21,7 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[06/15 21:01]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3`](https://github.com//khcrysalis/khcrysalis.dev/issues/3 'fix: my link') in [khcrysalis/khcrysalis.dev](https://github.com/khcrysalis/khcrysalis.dev)  
 `[06/15 18:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/discord-themes.com](https://github.com/Faf4a/discord-themes.com)  
 `[06/15 16:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[06/15 15:46]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#240`](https://github.com//aoijs/website/pull/240 'Update index.mdx') in [aoijs/website](https://github.com/aoijs/website)  
@@ -30,10 +31,10 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[06/15 15:45]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`dev`](https://github.com/aoijs/website/tree/dev) in [aoijs/website](https://github.com/aoijs/website)  
 `[06/15 15:45]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `Faf4a-patch-2` from [aoijs/website](https://github.com/aoijs/website)  
 `[06/15 09:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[06/14 20:35]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3475`](https://github.com//Vendicated/Vencord/issues/3475 'FriendCloud ') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 
 <details><summary>Show More</summary>
 
+`[06/14 20:35]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3475`](https://github.com//Vendicated/Vencord/issues/3475 'FriendCloud ') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[06/14 12:52]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#726`](https://github.com//aoijs/aoi.js/issues/726 'Bug: $editButton does not work when using components v2') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[06/14 12:52]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#726`](https://github.com//aoijs/aoi.js/issues/726 'Bug: $editButton does not work when using components v2') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[06/14 12:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Souza-ts/website](https://github.com/Souza-ts/website)  
