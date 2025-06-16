@@ -137,10 +137,6 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[05/16 17:04]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#711`](https://github.com//aoijs/aoi.js/pull/711 'components v2 implementation for the parser') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/16 16:30]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#714`](https://github.com//aoijs/aoi.js/pull/714 'revert httpRequest changes') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/16 16:30]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`revert-http`](https://github.com/aoijs/aoi.js/tree/revert-http) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[05/16 14:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[05/16 14:09]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#713`](https://github.com//aoijs/aoi.js/pull/713 'Fixed $create thread') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[05/16 14:09]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#713`](https://github.com//aoijs/aoi.js/pull/713 'Fixed $create thread') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[05/16 14:00]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#713`](https://github.com//aoijs/aoi.js/pull/713 'Fixed $create thread') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 </details>
 <!--END_SECTION:activity-->
