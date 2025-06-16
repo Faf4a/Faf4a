@@ -120,10 +120,6 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[05/17 18:04]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#236`](https://github.com//aoijs/website/pull/236 '6.10 Update Changes') in [aoijs/website](https://github.com/aoijs/website)  
 `[05/17 18:03]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#236`](https://github.com//aoijs/website/pull/236 '6.10 Update Changes') in [aoijs/website](https://github.com/aoijs/website)  
 `[05/17 13:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
-`[05/17 07:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
-`[05/17 07:15]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#31`](https://github.com//aoijs/aoi.music/pull/31 'Bump youtubei.js version') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
-`[05/17 07:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
-`[05/17 07:15]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#30`](https://github.com//aoijs/aoi.music/pull/30 'fix: cookie typo') in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 
 </details>
 <!--END_SECTION:activity-->
