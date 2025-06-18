@@ -108,7 +108,6 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[05/19 12:42]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#4`](https://github.com//Faf4a/ThemeLibrary/issues/4 'Fix Applying Themes') in [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
 `[05/19 12:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
 `[05/19 12:41]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#4`](https://github.com//Faf4a/ThemeLibrary/pull/4 'Fix Applying Themes') in [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
-`[05/18 17:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 </details>
 <!--END_SECTION:activity-->
