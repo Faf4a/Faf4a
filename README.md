@@ -1,8 +1,8 @@
 
+hello, im fafa. i like code and music
 
-hello, i mainly work on @aoijs related projects
+<img src="https://long-snowflake-63ac.fafakitty.workers.dev/lastfm?username=faf4a">
 
-<h6> my time i waste on coding useless shit </h6> 
 <table><tr><td>
 <!--START_SECTION:waka-->
 
