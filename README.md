@@ -1,7 +1,7 @@
 
 hello, im fafa. i like code and music
 
-![image](https://long-snowflake-63ac.fafakitty.workers.dev/lastfm?username=faf4a?a)
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=faf4a&count=3)
 
 <table><tr><td>
 <!--START_SECTION:waka-->
