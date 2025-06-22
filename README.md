@@ -21,7 +21,8 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-`[06/21 21:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/Faf4a](https://github.com/Faf4a/Faf4a)  
+`[06/22 08:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/discord-preview](https://github.com/Faf4a/discord-preview)  
+`[06/22 08:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Faf4a/Faf4a](https://github.com/Faf4a/Faf4a)  
 `[06/21 10:53]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//nin0-dev/txtcord/issues/1 'when will this be finished') in [nin0-dev/txtcord](https://github.com/nin0-dev/txtcord)  
 `[06/21 08:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/yugo](https://github.com/Faf4a/yugo)  
 `[06/19 08:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [Faf4a/soup](https://github.com/Faf4a/soup)  
@@ -30,10 +31,10 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[06/15 18:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/discord-themes.com](https://github.com/Faf4a/discord-themes.com)  
 `[06/15 16:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[06/15 15:46]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#240`](https://github.com//aoijs/website/pull/240 'Update index.mdx') in [aoijs/website](https://github.com/aoijs/website)  
-`[06/15 15:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
 
 <details><summary>Show More</summary>
 
+`[06/15 15:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
 `[06/15 15:45]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#241`](https://github.com//aoijs/website/pull/241 'Update guildRoles.md') in [aoijs/website](https://github.com/aoijs/website)  
 `[06/15 15:45]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#241`](https://github.com//aoijs/website/issues/241 'Update guildRoles.md') in [aoijs/website](https://github.com/aoijs/website)  
 `[06/15 15:45]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`dev`](https://github.com/aoijs/website/tree/dev) in [aoijs/website](https://github.com/aoijs/website)  
