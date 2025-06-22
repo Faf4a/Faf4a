@@ -1,7 +1,7 @@
 
 hello, im fafa. i like code and music
 
-<img src="https://long-snowflake-63ac.fafakitty.workers.dev/lastfm?username=faf4a">
+![image](https://long-snowflake-63ac.fafakitty.workers.dev/lastfm?username=faf4a?a)
 
 <table><tr><td>
 <!--START_SECTION:waka-->
