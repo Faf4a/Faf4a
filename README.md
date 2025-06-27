@@ -108,7 +108,6 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[05/28 17:06]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#2`](https://github.com//extendify-mod/extendify/issues/2 'extendify causes spotify to fail to load') in [extendify-mod/extendify](https://github.com/extendify-mod/extendify)  
 `[05/27 15:42]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [skyra-project/discord-components](https://github.com/skyra-project/discord-components) to [Faf4a/discord-components](https://github.com/Faf4a/discord-components)  
 `[05/27 15:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [NilPointer-Software/mdbook-discord-components](https://github.com/NilPointer-Software/mdbook-discord-components)  
-`[05/27 13:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [extendify-mod/extendify](https://github.com/extendify-mod/extendify)  
 
 </details>
 <!--END_SECTION:activity-->
