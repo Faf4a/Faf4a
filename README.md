@@ -105,7 +105,6 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[05/28 20:46]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Faf4a/aoi-vsc/tree/main) in [Faf4a/aoi-vsc](https://github.com/Faf4a/aoi-vsc)  
 `[05/28 20:20]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/Faf4a/yugo/tree/master) in [Faf4a/yugo](https://github.com/Faf4a/yugo)  
 `[05/28 20:19]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Faf4a/yugo](https://github.com/Faf4a/yugo)  
-`[05/28 17:06]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#2`](https://github.com//extendify-mod/extendify/issues/2 'extendify causes spotify to fail to load') in [extendify-mod/extendify](https://github.com/extendify-mod/extendify)  
 
 </details>
 <!--END_SECTION:activity-->
