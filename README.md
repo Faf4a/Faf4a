@@ -92,7 +92,6 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[05/31 12:39]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#723`](https://github.com//aoijs/aoi.js/issues/723 'Poll Parser') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/31 12:37]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#723`](https://github.com//aoijs/aoi.js/pull/723 'Poll Parser') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[05/31 12:37]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#723`](https://github.com//aoijs/aoi.js/pull/723 'Poll Parser') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[05/30 07:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Faf4a/discord-preview](https://github.com/Faf4a/discord-preview)  
 
 </details>
 <!--END_SECTION:activity-->
