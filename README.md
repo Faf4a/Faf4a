@@ -81,8 +81,6 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[06/08 20:50]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/Faf4a/vc-useraffinities/tree/master) in [Faf4a/vc-useraffinities](https://github.com/Faf4a/vc-useraffinities)  
 `[06/08 20:42]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Faf4a/vc-useraffinities](https://github.com/Faf4a/vc-useraffinities)  
 `[06/08 20:42]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Faf4a/vc-useraffinities/tree/main) in [Faf4a/vc-useraffinities](https://github.com/Faf4a/vc-useraffinities)  
-`[06/07 03:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
-`[06/07 03:03]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#5`](https://github.com//Faf4a/ThemeLibrary/pull/5 'Work with Vencord CSP changes, also fiz incorrect rule on svgs') in [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
 
 </details>
 <!--END_SECTION:activity-->
