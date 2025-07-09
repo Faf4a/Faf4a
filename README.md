@@ -21,6 +21,9 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[07/09 01:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[07/09 01:37]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#727`](https://github.com//aoijs/aoi.js/pull/727 'fix $setObjectProperty') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[07/09 01:37]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#727`](https://github.com//aoijs/aoi.js/pull/727 'fix $setObjectProperty') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/09 00:20]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#725`](https://github.com//aoijs/aoi.js/issues/725 'Update referenceUserId.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/09 00:20]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#725`](https://github.com//aoijs/aoi.js/pull/725 'Update referenceUserId.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/09 00:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
@@ -28,12 +31,12 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[07/07 11:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[06/29 08:03]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`1.3.2`](https://github.com/aoijs/aoi.music/releases/tag/1.3.2) in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[06/29 08:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
-`[06/23 19:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [khcrysalis/Antrag](https://github.com/khcrysalis/Antrag)  
-`[06/22 09:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/discord-themes.com](https://github.com/Faf4a/discord-themes.com)  
-`[06/22 08:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/discord-preview](https://github.com/Faf4a/discord-preview)  
 
 <details><summary>Show More</summary>
 
+`[06/23 19:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [khcrysalis/Antrag](https://github.com/khcrysalis/Antrag)  
+`[06/22 09:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/discord-themes.com](https://github.com/Faf4a/discord-themes.com)  
+`[06/22 08:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/discord-preview](https://github.com/Faf4a/discord-preview)  
 `[06/22 08:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Faf4a/Faf4a](https://github.com/Faf4a/Faf4a)  
 `[06/21 10:53]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//nin0-dev/txtcord/issues/1 'when will this be finished') in [nin0-dev/txtcord](https://github.com/nin0-dev/txtcord)  
 `[06/21 08:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/yugo](https://github.com/Faf4a/yugo)  
