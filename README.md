@@ -81,10 +81,6 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[06/10 20:15]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#239`](https://github.com//aoijs/website/pull/239 'Parser Guide Improvements & Fixes') in [aoijs/website](https://github.com/aoijs/website)  
 `[06/10 20:15]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#239`](https://github.com//aoijs/website/pull/239 'Parser Guide Improvements & Fixes') in [aoijs/website](https://github.com/aoijs/website)  
 `[06/10 18:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[06/09 11:09]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#3475`](https://github.com//Vendicated/Vencord/pull/3475 'UserAffinities') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
-`[06/09 11:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/soup](https://github.com/Faf4a/soup)  
-`[06/09 10:49]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Vendicated/Vencord](https://github.com/Vendicated/Vencord) to [Faf4a/soup](https://github.com/Faf4a/soup)  
-`[06/09 10:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/vc-useraffinities](https://github.com/Faf4a/vc-useraffinities)  
 
 </details>
 <!--END_SECTION:activity-->
