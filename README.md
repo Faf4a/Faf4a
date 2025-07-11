@@ -21,6 +21,7 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[07/11 00:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Ferks-FK/Pterodactyl-AutoAddons](https://github.com/Ferks-FK/Pterodactyl-AutoAddons)  
 `[07/09 01:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/09 01:37]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#727`](https://github.com//aoijs/aoi.js/pull/727 'fix $setObjectProperty') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/09 01:37]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#727`](https://github.com//aoijs/aoi.js/pull/727 'fix $setObjectProperty') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
@@ -30,10 +31,10 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[07/07 11:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/aoi.mongo](https://github.com/Faf4a/aoi.mongo)  
 `[07/07 11:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[06/29 08:03]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`1.3.2`](https://github.com/aoijs/aoi.music/releases/tag/1.3.2) in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
-`[06/29 08:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 
 <details><summary>Show More</summary>
 
+`[06/29 08:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[06/23 19:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [khcrysalis/Antrag](https://github.com/khcrysalis/Antrag)  
 `[06/22 09:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/discord-themes.com](https://github.com/Faf4a/discord-themes.com)  
 `[06/22 08:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/discord-preview](https://github.com/Faf4a/discord-preview)  
@@ -80,7 +81,7 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[06/12 03:22]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#6`](https://github.com//Faf4a/ThemeLibrary/pull/6 'They changed the name of the import') in [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
 `[06/10 20:15]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#239`](https://github.com//aoijs/website/pull/239 'Parser Guide Improvements & Fixes') in [aoijs/website](https://github.com/aoijs/website)  
 `[06/10 20:15]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#239`](https://github.com//aoijs/website/pull/239 'Parser Guide Improvements & Fixes') in [aoijs/website](https://github.com/aoijs/website)  
-`[06/10 18:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[06/10 18:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 </details>
 <!--END_SECTION:activity-->
