@@ -81,7 +81,6 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[06/12 03:22]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#6`](https://github.com//Faf4a/ThemeLibrary/pull/6 'They changed the name of the import') in [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
 `[06/10 20:15]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#239`](https://github.com//aoijs/website/pull/239 'Parser Guide Improvements & Fixes') in [aoijs/website](https://github.com/aoijs/website)  
 `[06/10 20:15]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#239`](https://github.com//aoijs/website/pull/239 'Parser Guide Improvements & Fixes') in [aoijs/website](https://github.com/aoijs/website)  
-`[06/10 18:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 </details>
 <!--END_SECTION:activity-->
