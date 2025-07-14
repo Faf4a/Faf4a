@@ -66,8 +66,6 @@ YAML          5 hrs 18 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[06/14 12:52]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#726`](https://github.com//aoijs/aoi.js/issues/726 'Bug: $editButton does not work when using components v2') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[06/14 12:52]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#726`](https://github.com//aoijs/aoi.js/issues/726 'Bug: $editButton does not work when using components v2') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[06/14 12:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Souza-ts/website](https://github.com/Souza-ts/website)  
-`[06/13 20:13]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#7`](https://github.com//sadan4/dotfiles/pull/7 'replace outdated ts-node with tsx') in [sadan4/dotfiles](https://github.com/sadan4/dotfiles)  
-`[06/13 20:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#7`](https://github.com//sadan4/dotfiles/issues/7 'replace outdated ts-node with tsx') in [sadan4/dotfiles](https://github.com/sadan4/dotfiles)  
 
 </details>
 <!--END_SECTION:activity-->
