@@ -21,6 +21,9 @@ Astro         5 hrs 42 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[07/14 18:27]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#729`](https://github.com//aoijs/aoi.js/pull/729 'Update interactionAttachment.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[07/14 18:27]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#730`](https://github.com//aoijs/aoi.js/pull/730 'Create time.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[07/14 18:19]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#731`](https://github.com//aoijs/aoi.js/pull/731 'Create getComponents.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/14 17:35]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#731`](https://github.com//aoijs/aoi.js/issues/731 'Create getComponents.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/13 23:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/yugo](https://github.com/Faf4a/yugo)  
 `[07/13 22:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [aoijs/website](https://github.com/aoijs/website)  
@@ -28,12 +31,12 @@ Astro         5 hrs 42 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[07/13 20:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Faf4a/yugo](https://github.com/Faf4a/yugo)  
 `[07/11 12:38]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#728`](https://github.com//aoijs/aoi.js/pull/728 'fix: $setTimeout') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/11 12:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[07/11 12:38]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#728`](https://github.com//aoijs/aoi.js/pull/728 'fix: $setTimeout') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[07/11 12:22]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#728`](https://github.com//aoijs/aoi.js/pull/728 'fix: $setTimeout') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[07/11 12:22]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#728`](https://github.com//aoijs/aoi.js/pull/728 'fix: $setTimeout') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 <details><summary>Show More</summary>
 
+`[07/11 12:38]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#728`](https://github.com//aoijs/aoi.js/pull/728 'fix: $setTimeout') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[07/11 12:22]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#728`](https://github.com//aoijs/aoi.js/pull/728 'fix: $setTimeout') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[07/11 12:22]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#728`](https://github.com//aoijs/aoi.js/pull/728 'fix: $setTimeout') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/11 00:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Ferks-FK/Pterodactyl-AutoAddons](https://github.com/Ferks-FK/Pterodactyl-AutoAddons)  
 `[07/09 01:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/09 01:37]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#727`](https://github.com//aoijs/aoi.js/pull/727 'fix $setObjectProperty') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
@@ -64,9 +67,6 @@ Astro         5 hrs 42 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[06/15 15:45]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `Faf4a-patch-2` from [aoijs/website](https://github.com/aoijs/website)  
 `[06/15 09:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[06/14 20:35]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3475`](https://github.com//Vendicated/Vencord/issues/3475 'FriendCloud ') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
-`[06/14 12:52]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#726`](https://github.com//aoijs/aoi.js/issues/726 'Bug: $editButton does not work when using components v2') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[06/14 12:52]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#726`](https://github.com//aoijs/aoi.js/issues/726 'Bug: $editButton does not work when using components v2') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[06/14 12:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Souza-ts/website](https://github.com/Souza-ts/website)  
 
 </details>
 <!--END_SECTION:activity-->
