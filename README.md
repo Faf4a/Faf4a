@@ -66,7 +66,6 @@ Astro         5 hrs 42 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[06/15 15:45]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`dev`](https://github.com/aoijs/website/tree/dev) in [aoijs/website](https://github.com/aoijs/website)  
 `[06/15 15:45]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `Faf4a-patch-2` from [aoijs/website](https://github.com/aoijs/website)  
 `[06/15 09:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[06/14 20:35]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3475`](https://github.com//Vendicated/Vencord/issues/3475 'FriendCloud ') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 
 </details>
 <!--END_SECTION:activity-->
