@@ -21,8 +21,19 @@ Astro         5 hrs 42 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[07/17 07:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `Vishvaas06-patch-1` from [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[07/17 07:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[07/17 07:00]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#729`](https://github.com//aoijs/aoi.js/pull/729 'Update interactionAttachment.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[07/17 07:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `Vishvaas06-patch-2` from [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[07/17 07:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[07/17 07:00]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#730`](https://github.com//aoijs/aoi.js/pull/730 'Create time.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[07/17 06:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[07/17 06:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [face-hh/8055](https://github.com/face-hh/8055)  
 `[07/15 02:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/hs](https://github.com/Faf4a/hs)  
 `[07/14 23:09]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Faf4a/hs](https://github.com/Faf4a/hs)  
+
+<details><summary>Show More</summary>
+
 `[07/14 23:09]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/Faf4a/hs/tree/main) in [Faf4a/hs](https://github.com/Faf4a/hs)  
 `[07/14 23:09]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [Faf4a/host](https://github.com/Faf4a/host)  
 `[07/14 20:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Faf4a/yugo](https://github.com/Faf4a/yugo)  
@@ -31,9 +42,6 @@ Astro         5 hrs 42 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[07/14 18:19]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#731`](https://github.com//aoijs/aoi.js/pull/731 'Create getComponents.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/14 17:35]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#731`](https://github.com//aoijs/aoi.js/issues/731 'Create getComponents.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/13 23:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/yugo](https://github.com/Faf4a/yugo)  
-
-<details><summary>Show More</summary>
-
 `[07/13 22:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [aoijs/website](https://github.com/aoijs/website)  
 `[07/13 20:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rushiiMachine/no-guns-lol](https://github.com/rushiiMachine/no-guns-lol)  
 `[07/13 20:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [Faf4a/yugo](https://github.com/Faf4a/yugo)  
