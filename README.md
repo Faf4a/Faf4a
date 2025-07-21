@@ -66,7 +66,6 @@ Astro         5 hrs 42 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[06/22 08:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/discord-preview](https://github.com/Faf4a/discord-preview)  
 `[06/22 08:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Faf4a/Faf4a](https://github.com/Faf4a/Faf4a)  
 `[06/21 10:53]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//nin0-dev/txtcord/issues/1 'when will this be finished') in [nin0-dev/txtcord](https://github.com/nin0-dev/txtcord)  
-`[06/21 08:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/yugo](https://github.com/Faf4a/yugo)  
 
 </details>
 <!--END_SECTION:activity-->
