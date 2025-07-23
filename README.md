@@ -66,9 +66,6 @@ Astro         5 hrs 42 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[06/29 08:03]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`1.3.2`](https://github.com/aoijs/aoi.music/releases/tag/1.3.2) in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[06/29 08:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.music](https://github.com/aoijs/aoi.music)  
 `[06/23 19:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [khcrysalis/Antrag](https://github.com/khcrysalis/Antrag)  
-`[06/22 09:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/discord-themes.com](https://github.com/Faf4a/discord-themes.com)  
-`[06/22 08:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [Faf4a/discord-preview](https://github.com/Faf4a/discord-preview)  
-`[06/22 08:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/Faf4a](https://github.com/Faf4a/Faf4a)  
 
 </details>
 <!--END_SECTION:activity-->
