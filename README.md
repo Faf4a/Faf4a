@@ -21,6 +21,7 @@ Astro         5 hrs 42 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[08/01 18:02]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#732`](https://github.com//aoijs/aoi.js/pull/732 'Update addButton.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/21 14:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
 `[07/21 14:57]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#7`](https://github.com//Faf4a/ThemeLibrary/pull/7 'Fix new plugin settings changes') in [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
 `[07/21 14:57]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#7`](https://github.com//Faf4a/ThemeLibrary/issues/7 'Fix new plugin settings changes') in [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
@@ -30,10 +31,10 @@ Astro         5 hrs 42 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[07/17 07:00]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#729`](https://github.com//aoijs/aoi.js/pull/729 'Update interactionAttachment.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/17 07:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `Vishvaas06-patch-2` from [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/17 07:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[07/17 07:00]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#730`](https://github.com//aoijs/aoi.js/pull/730 'Create time.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 <details><summary>Show More</summary>
 
+`[07/17 07:00]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#730`](https://github.com//aoijs/aoi.js/pull/730 'Create time.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/17 06:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/17 06:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [face-hh/8055](https://github.com/face-hh/8055)  
 `[07/15 02:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/hs](https://github.com/Faf4a/hs)  
