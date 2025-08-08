@@ -61,9 +61,6 @@ Astro         5 hrs 42 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[07/11 12:22]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#728`](https://github.com//aoijs/aoi.js/pull/728 'fix: $setTimeout') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/11 12:22]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#728`](https://github.com//aoijs/aoi.js/pull/728 'fix: $setTimeout') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/11 00:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Ferks-FK/Pterodactyl-AutoAddons](https://github.com/Ferks-FK/Pterodactyl-AutoAddons)  
-`[07/09 01:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[07/09 01:37]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#727`](https://github.com//aoijs/aoi.js/pull/727 'fix $setObjectProperty') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[07/09 01:37]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#727`](https://github.com//aoijs/aoi.js/pull/727 'fix $setObjectProperty') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 </details>
 <!--END_SECTION:activity-->
