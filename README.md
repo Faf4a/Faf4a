@@ -64,9 +64,6 @@ Astro         5 hrs 42 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[07/09 01:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/09 01:37]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#727`](https://github.com//aoijs/aoi.js/pull/727 'fix $setObjectProperty') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/09 01:37]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#727`](https://github.com//aoijs/aoi.js/pull/727 'fix $setObjectProperty') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[07/09 00:20]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#725`](https://github.com//aoijs/aoi.js/issues/725 'Update referenceUserId.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[07/09 00:20]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#725`](https://github.com//aoijs/aoi.js/pull/725 'Update referenceUserId.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[07/09 00:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 </details>
 <!--END_SECTION:activity-->
