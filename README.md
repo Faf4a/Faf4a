@@ -54,10 +54,6 @@ Astro         5 hrs 42 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[07/14 18:27]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#730`](https://github.com//aoijs/aoi.js/pull/730 'Create time.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/14 18:19]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#731`](https://github.com//aoijs/aoi.js/pull/731 'Create getComponents.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/14 17:35]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#731`](https://github.com//aoijs/aoi.js/issues/731 'Create getComponents.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[07/13 23:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/yugo](https://github.com/Faf4a/yugo)  
-`[07/13 22:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [aoijs/website](https://github.com/aoijs/website)  
-`[07/13 20:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rushiiMachine/no-guns-lol](https://github.com/rushiiMachine/no-guns-lol)  
-`[07/13 20:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Faf4a/yugo](https://github.com/Faf4a/yugo)  
 
 </details>
 <!--END_SECTION:activity-->
