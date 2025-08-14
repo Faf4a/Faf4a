@@ -53,7 +53,6 @@ Astro         5 hrs 42 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[07/14 18:27]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#729`](https://github.com//aoijs/aoi.js/pull/729 'Update interactionAttachment.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/14 18:27]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#730`](https://github.com//aoijs/aoi.js/pull/730 'Create time.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[07/14 18:19]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#731`](https://github.com//aoijs/aoi.js/pull/731 'Create getComponents.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[07/14 17:35]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#731`](https://github.com//aoijs/aoi.js/issues/731 'Create getComponents.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 </details>
 <!--END_SECTION:activity-->
