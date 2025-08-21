@@ -30,13 +30,6 @@ Astro         5 hrs 42 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[08/02 13:50]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#242`](https://github.com//aoijs/website/pull/242 'Fix: guildEditPost mistakes') in [aoijs/website](https://github.com/aoijs/website)  
 `[08/02 13:49]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#242`](https://github.com//aoijs/website/pull/242 'Fix: guildEditPost mistakes') in [aoijs/website](https://github.com/aoijs/website)  
 `[08/01 18:02]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#732`](https://github.com//aoijs/aoi.js/pull/732 'Update addButton.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[07/21 14:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
-
-<details><summary>Show More</summary>
-
-`[07/21 14:57]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#7`](https://github.com//Faf4a/ThemeLibrary/pull/7 'Fix new plugin settings changes') in [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
-`[07/21 14:57]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#7`](https://github.com//Faf4a/ThemeLibrary/issues/7 'Fix new plugin settings changes') in [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
-`[07/21 14:57]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#7`](https://github.com//Faf4a/ThemeLibrary/pull/7 'Fix new plugin settings changes') in [Faf4a/ThemeLibrary](https://github.com/Faf4a/ThemeLibrary)  
 
 </details>
 <!--END_SECTION:activity-->
