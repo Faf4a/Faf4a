@@ -21,19 +21,23 @@ Astro         5 hrs 42 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[08/26 18:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+`[08/26 18:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
+`[08/26 18:36]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#244`](https://github.com//aoijs/website/pull/244 'v6.11 functions') in [aoijs/website](https://github.com/aoijs/website)  
+`[08/26 18:35]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#244`](https://github.com//aoijs/website/pull/244 'v6.11 functions') in [aoijs/website](https://github.com/aoijs/website)  
 `[08/26 03:58]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`6.11`](https://github.com/aoijs/aoi.js/releases/tag/6.11) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[08/26 03:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[08/26 03:40]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#733`](https://github.com//aoijs/aoi.js/issues/733 'Update createApplicationCommand.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[08/26 03:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[08/25 09:08]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#243`](https://github.com//aoijs/website/issues/243 'Bump @astrojs/node from 8.3.4 to 9.4.1') in [aoijs/website](https://github.com/aoijs/website)  
 `[08/08 18:50]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `Vishvaas06-patch-1` from [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
+
+<details><summary>Show More</summary>
+
 `[08/08 18:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[08/08 18:50]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#734`](https://github.com//aoijs/aoi.js/pull/734 'Update interactionUpdate.js for cv2') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[08/03 06:17]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3475`](https://github.com//Vendicated/Vencord/issues/3475 'FriendCloud ') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[08/03 06:17]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#3475`](https://github.com//Vendicated/Vencord/pull/3475 'FriendCloud ') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
-
-<details><summary>Show More</summary>
-
 `[08/02 13:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
 `[08/02 13:50]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#242`](https://github.com//aoijs/website/pull/242 'Fix: guildEditPost mistakes') in [aoijs/website](https://github.com/aoijs/website)  
 `[08/02 13:49]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#242`](https://github.com//aoijs/website/pull/242 'Fix: guildEditPost mistakes') in [aoijs/website](https://github.com/aoijs/website)  
