@@ -41,7 +41,6 @@ Astro         5 hrs 42 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[08/02 13:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
 `[08/02 13:50]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#242`](https://github.com//aoijs/website/pull/242 'Fix: guildEditPost mistakes') in [aoijs/website](https://github.com/aoijs/website)  
 `[08/02 13:49]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#242`](https://github.com//aoijs/website/pull/242 'Fix: guildEditPost mistakes') in [aoijs/website](https://github.com/aoijs/website)  
-`[08/01 18:02]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#732`](https://github.com//aoijs/aoi.js/pull/732 'Update addButton.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 
 </details>
 <!--END_SECTION:activity-->
