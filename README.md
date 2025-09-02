@@ -38,9 +38,6 @@ Astro         5 hrs 42 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[08/08 18:50]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#734`](https://github.com//aoijs/aoi.js/pull/734 'Update interactionUpdate.js for cv2') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
 `[08/03 06:17]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3475`](https://github.com//Vendicated/Vencord/issues/3475 'FriendCloud ') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 `[08/03 06:17]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#3475`](https://github.com//Vendicated/Vencord/pull/3475 'FriendCloud ') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
-`[08/02 13:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [aoijs/website](https://github.com/aoijs/website)  
-`[08/02 13:50]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#242`](https://github.com//aoijs/website/pull/242 'Fix: guildEditPost mistakes') in [aoijs/website](https://github.com/aoijs/website)  
-`[08/02 13:49]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#242`](https://github.com//aoijs/website/pull/242 'Fix: guildEditPost mistakes') in [aoijs/website](https://github.com/aoijs/website)  
 
 </details>
 <!--END_SECTION:activity-->
