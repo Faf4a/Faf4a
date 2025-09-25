@@ -32,13 +32,6 @@ Astro         5 hrs 42 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[08/26 18:36]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#244`](https://github.com//aoijs/website/pull/244 'v6.11 functions') in [aoijs/website](https://github.com/aoijs/website)  
 `[08/26 18:35]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#244`](https://github.com//aoijs/website/pull/244 'v6.11 functions') in [aoijs/website](https://github.com/aoijs/website)  
 
-<details><summary>Show More</summary>
-
-`[08/26 03:58]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released [`6.11`](https://github.com/aoijs/aoi.js/releases/tag/6.11) in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[08/26 03:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[08/26 03:40]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#733`](https://github.com//aoijs/aoi.js/issues/733 'Update createApplicationCommand.js') in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-`[08/26 03:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [aoijs/aoi.js](https://github.com/aoijs/aoi.js)  
-
 </details>
 <!--END_SECTION:activity-->
 
