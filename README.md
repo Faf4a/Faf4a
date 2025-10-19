@@ -26,7 +26,6 @@ Astro         5 hrs 42 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 `[09/24 01:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Open-Source-Transport/roblox-path-plugin](https://github.com/Open-Source-Transport/roblox-path-plugin)  
 `[09/22 18:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [Faf4a/themesApi](https://github.com/Faf4a/themesApi)  
 `[09/20 19:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [partyhatgg/yapper](https://github.com/partyhatgg/yapper)  
-`[09/18 18:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [Faf4a/themesApi](https://github.com/Faf4a/themesApi)  
 
 </details>
 <!--END_SECTION:activity-->
