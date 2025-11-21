@@ -21,7 +21,7 @@ Astro         5 hrs 42 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-`[11/20 15:29]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#5`](https://github.com//ApexTeamPL/venmobile-bundle/issues/5 'Vencore? Venmobile? Seriously?') in [ApexTeamPL/venmobile-bundle](https://github.com/ApexTeamPL/venmobile-bundle)  
+`[11/20 15:29]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#5`](https://github.com//ApexTeamPL/voxi-bundle/issues/5 'Vencore? Venmobile? Seriously?') in [ApexTeamPL/voxi-bundle](https://github.com/ApexTeamPL/voxi-bundle)  
 `[11/16 09:33]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3731`](https://github.com//Vendicated/Vencord/issues/3731 'noreplymention') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
 
 </details>
