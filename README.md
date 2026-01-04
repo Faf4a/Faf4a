@@ -22,7 +22,6 @@ YAML          6 hrs 21 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--START_SECTION:activity-->
 `[12/22 00:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [Faf4a/stunning-spoon](https://github.com/Faf4a/stunning-spoon)  
 `[12/15 21:16]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2521`](https://github.com//Vendicated/Vencord/issues/2521 '[Plugin] Message Colors') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
-`[12/05 15:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `undefined` commits in [Faf4a/themesApi](https://github.com/Faf4a/themesApi)  
 
 </details>
 <!--END_SECTION:activity-->
