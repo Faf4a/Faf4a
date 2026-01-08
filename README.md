@@ -20,6 +20,7 @@ YAML          6 hrs 21 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+`[01/08 18:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [paigely/Navic](https://github.com/paigely/Navic)  
 `[01/07 14:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [llsc12/Paicord](https://github.com/llsc12/Paicord)  
 `[12/22 00:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `NaN` commits in [Faf4a/stunning-spoon](https://github.com/Faf4a/stunning-spoon)  
 `[12/15 21:16]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2521`](https://github.com//Vendicated/Vencord/issues/2521 '[Plugin] Message Colors') in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
